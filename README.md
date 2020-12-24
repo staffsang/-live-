@@ -17,9 +17,9 @@
 
 |      简称      |                                全称                                   |    备注    |
 |---------------|-----------------------------------------------------------------------|-----------|
-|**4TH**        | THE IDOLM@STER 4th ANNIVERSARY PARTY SPECIAL DREAM TOUR’S!! IN TOKYO  |
+|**4tH**        | THE IDOLM@STER 4th ANNIVERSARY PARTY SPECIAL DREAM TOUR’S!! IN TOKYO  |
 |**8th**        | THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!!                  |
-|**SSA2014**    | THE IDOLM@STER M@STERS OF IDOL WORLD!!2014                            |
+|**moiw2014**    | THE IDOLM@STER M@STERS OF IDOL WORLD!!2014                            |
 |**9th**        | THE IDOLM@STER 9th ANNIVERSARY WE ARE M@STERPIECE!!                   |
 |**10th**       | THE IDOLM@STER M@STERS OF IDOL WORLD!!2015                            |
 |**ML2nd**      | THE IDOLM@STER MILLION LIVE! 2ndLIVE ENJOY H@RMONY!!                  |
