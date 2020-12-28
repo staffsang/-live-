@@ -17,10 +17,10 @@ Audio File: Z:/10th/THE_IDOLM@STER_M@STERS_OF_IDOL_WORLD!!2015_Day2_Disc1_t01.mk
 Video File: Z:/10th/THE_IDOLM@STER_M@STERS_OF_IDOL_WORLD!!2015_Day2_Disc1_t01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.650000
-Scroll Position: 2034
-Active Line: 2036
-Video Position: 288339
+Video Zoom Percent: 0.525000
+Scroll Position: 1145
+Active Line: 1124
+Video Position: 91665
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1254,7 +1254,7 @@ Dialogue: 0,0:48:50.40,0:48:53.97,浅倉杏美,,0,0,0,,{\fad(60,85)\blur5}即使
 Dialogue: 0,0:48:54.17,0:48:56.73,浅倉杏美 - 日语,,0,0,0,,{\fad(60,85)\blur5}ドキドキピカカンカン
 Dialogue: 0,0:48:54.17,0:48:56.73,浅倉杏美,,0,0,0,,{\fad(60,85)\blur5}让人心跳亮晶晶
 Dialogue: 0,0:49:01.05,0:49:04.57,平田宏美 - 日语,,0,0,0,,{\fad(60,85)\blur5}ランプと壷を 買ってみたんだぞ
-Dialogue: 0,0:49:01.05,0:49:04.57,平田宏美,,0,0,0,,{\fad(60,85)\blur5}买盏油灯和罐子试着擦
+Dialogue: 0,0:49:01.05,0:49:04.57,平田宏美,,0,0,0,,{\fad(60,85)\blur5}买盏油灯和罐子试着擦一下
 Dialogue: 0,0:49:04.77,0:49:06.33,平田宏美 - 日语,,0,0,0,,{\fad(60,85)\blur5}アラアラウララ
 Dialogue: 0,0:49:04.77,0:49:06.33,平田宏美,,0,0,0,,{\fad(60,85)\blur5}啊啦啊啦乌啦啦
 Dialogue: 0,0:49:06.40,0:49:09.90,平田宏美 - 日语,,0,0,0,,{\fad(60,85)\blur5}クシャミか 擦ってみてみんだぞ
@@ -1273,18 +1273,18 @@ Dialogue: 0,0:49:26.35,0:49:28.65,平田宏美 - 日语,,0,0,0,,{\fad(60,85)\blu
 Dialogue: 0,0:49:26.35,0:49:28.65,平田宏美,,0,0,0,,{\fad(60,85)\blur5}神明大人！！各种大人！！拜托了♪
 Dialogue: 0,0:49:28.72,0:49:31.13,小鸟+真+雪步 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}キラメキラリ ちょっとフラット
 Dialogue: 0,0:49:28.72,0:49:31.13,小鸟+真+雪步,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}闪亮闪亮的 稍微降音
-Dialogue: 0,0:49:31.04,0:49:31.85,今井麻美,,0,0,0,,{\fad(60,85)\blur5}{\an3}フラット
+Dialogue: 0,0:49:31.04,0:49:31.85,今井麻美,,0,0,0,,{\fad(60,85)\blur5}{\an3}降音
 Dialogue: 0,0:49:31.66,0:49:34.00,小鸟+真+雪步 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}それでも 私のメロディー
 Dialogue: 0,0:49:31.66,0:49:34.00,小鸟+真+雪步,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}即便如此也是我的旋律
 Dialogue: 0,0:49:34.04,0:49:36.65,小鸟+真+雪步 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}キラメキラリ ピッとビビッと
 Dialogue: 0,0:49:34.04,0:49:36.65,小鸟+真+雪步,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}闪亮闪亮的 再加下油
-Dialogue: 0,0:49:35.69,0:49:36.61,今井麻美,,0,0,0,,{\fad(60,85)\blur5}{\an3}ビビッと
+Dialogue: 0,0:49:35.69,0:49:36.61,今井麻美,,0,0,0,,{\fad(60,85)\blur5}{\an3}加油
 Dialogue: 0,0:49:36.84,0:49:39.40,小鸟+真+雪步 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}精元気に歌えたら ALL OK
 Dialogue: 0,0:49:36.84,0:49:39.40,小鸟+真+雪步,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}只要打起精神唱歌就ALL OK
 Dialogue: 0,0:49:38.65,0:49:39.37,今井麻美,,0,0,0,,{\fad(60,85)\blur5}{\an3}OK
 Dialogue: 0,0:49:39.40,0:49:42.00,小鸟+真+雪步 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}テキパキラリ パッとパパッと
 Dialogue: 0,0:49:39.40,0:49:42.00,小鸟+真+雪步,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}干净利落的 不要着急
-Dialogue: 0,0:49:41.85,0:49:42.31,今井麻美,,0,0,0,,{\fad(60,85)\blur5}{\an3}パパ
+Dialogue: 0,0:49:41.85,0:49:42.31,今井麻美,,0,0,0,,{\fad(60,85)\blur5}{\an3}着急
 Dialogue: 0,0:49:42.38,0:49:44.60,小鸟+真+雪步 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}お楽しみまだこれから
 Dialogue: 0,0:49:42.38,0:49:44.60,小鸟+真+雪步,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}真正的好戏才刚开始
 Dialogue: 0,0:49:44.60,0:49:47.36,小鸟+真+雪步 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}テキパキラリ GOODニカッと
@@ -1309,7 +1309,7 @@ Dialogue: 0,0:50:27.63,0:50:29.93,滝田樹里 - 日语,,0,0,0,,{\fad(60,85)\blu
 Dialogue: 0,0:50:27.63,0:50:29.93,滝田樹里,,0,0,0,,{\fad(60,85)\blur5}只有黑白真是太无聊了
 Dialogue: 0,0:50:30.04,0:50:32.67,小鸟+真+雪步 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}テキパキラリ ちゃんとチャチャッと
 Dialogue: 0,0:50:30.04,0:50:32.67,小鸟+真+雪步,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}干净利落的 好好地飞一飞
-Dialogue: 0,0:50:31.87,0:50:32.71,今井麻美,,0,0,0,,{\fad(60,85)\blur5}{\an3}チャチャッと
+Dialogue: 0,0:50:31.87,0:50:32.71,今井麻美,,0,0,0,,{\fad(60,85)\blur5}{\an3}飞一飞
 Dialogue: 0,0:50:32.89,0:50:35.32,小鸟+真+雪步 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}オキラクゴクラクの虹へ
 Dialogue: 0,0:50:32.89,0:50:35.32,小鸟+真+雪步,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H6BBDF4&,&HE9DDD3&,&HA5B3BA&,&H585551&)}飞往舒适无忧的大彩虹
 Dialogue: 0,0:50:34.49,0:50:35.32,今井麻美,,0,0,0,,{\fad(60,85)\blur5}{\an3}彩虹
