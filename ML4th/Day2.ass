@@ -16,8 +16,8 @@ Video File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDO
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2469
-Active Line: 2473
+Scroll Position: 3114
+Active Line: 3150
 Video Position: 115779
 
 [V4+ Styles]
@@ -3152,19 +3152,19 @@ Dialogue: 0,2:41:18.77,2:41:25.60,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&
 Dialogue: 0,2:41:25.01,2:41:26.31,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}{\an3}いつも
 Dialogue: 0,2:41:25.01,2:41:26.31,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}{\an3}一直
 Dialogue: 0,2:41:26.43,2:41:33.55,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}歩いてく 夢の花道(きどう) 君がいてくれた
-Dialogue: 0,2:41:26.43,2:41:33.55,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}漫步走在 梦幻般的花道上 你也跟上来了
+Dialogue: 0,2:41:26.43,2:41:33.55,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}漫步走在 你所赠与的 梦幻般的花道上
 Dialogue: 0,2:41:33.74,2:41:45.09,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}手と手を取り合って (広がる) 光のステージ
 Dialogue: 0,2:41:33.74,2:41:45.09,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}彼此手牵手(扩展)到光辉的舞台
 Dialogue: 0,2:41:45.22,2:41:52.21,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}願いはスタンディング↑フルボリューム 届け
 Dialogue: 0,2:41:45.22,2:41:52.21,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}愿望是站在舞台上↑ 以我最大的歌声 传达于你
 Dialogue: 0,2:41:53.35,2:41:56.63,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}思いっきり輝いてたい
-Dialogue: 0,2:41:53.35,2:41:56.63,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}想要竭尽全力散发光芒
+Dialogue: 0,2:41:53.35,2:41:56.63,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}想要尽情绽放光芒
 Dialogue: 0,2:41:56.71,2:42:00.56,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}それは一人じゃないから会えた
-Dialogue: 0,2:41:56.71,2:42:00.56,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}正因不是孤身一人才能相遇
+Dialogue: 0,2:41:56.71,2:42:00.56,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}我们能相遇 因为我并非一人
 Dialogue: 0,2:42:00.64,2:42:04.41,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}奇跡 (奇跡) そう呼べる
 Dialogue: 0,2:42:00.64,2:42:04.41,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}这值得称之为奇迹(奇迹)的
-Dialogue: 0,2:42:04.49,2:42:08.66,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}DIAMOND DAYS 楽しもう！
-Dialogue: 0,2:42:04.49,2:42:08.66,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}DIAMOND DAYS 去享受吧！
+Dialogue: 0,2:42:04.49,2:42:08.66,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}Diamond days 楽しもう！
+Dialogue: 0,2:42:04.49,2:42:08.66,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}享受这Diamond days吧！
 Dialogue: 0,2:42:08.91,2:42:12.25,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}嬉しくて伝えたくなる
 Dialogue: 0,2:42:08.91,2:42:12.25,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}想传达心中喜悦
 Dialogue: 0,2:42:12.35,2:42:16.10,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}“ありがとう”これからも一緒に
@@ -3220,13 +3220,13 @@ Dialogue: 0,2:44:36.47,2:44:37.70,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&
 Dialogue: 0,2:44:38.16,2:44:41.89,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,200)\blur5}歌いたい もっと
 Dialogue: 0,2:44:38.16,2:44:41.89,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,200)\blur5}我更想高声歌唱
 Dialogue: 0,2:44:43.04,2:44:46.34,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}思いっきり輝いてたい
-Dialogue: 0,2:44:43.04,2:44:46.34,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}想要竭尽全力散发光芒
+Dialogue: 0,2:44:43.04,2:44:46.34,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}想要尽情绽放光芒
 Dialogue: 0,2:44:46.34,2:44:50.37,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}それは一人じゃないから会えた
-Dialogue: 0,2:44:46.34,2:44:50.37,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}正因不是孤身一人才能相遇
+Dialogue: 0,2:44:46.34,2:44:50.37,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}我们能相遇 因为我并非一人
 Dialogue: 0,2:44:50.41,2:44:54.31,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}奇跡 (奇跡) そう呼べる
 Dialogue: 0,2:44:50.41,2:44:54.31,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}这值得称之为奇迹(奇迹)的
-Dialogue: 0,2:44:54.34,2:44:58.42,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}DIAMOND DAYS 楽しもう！
-Dialogue: 0,2:44:54.34,2:44:58.42,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}DIAMOND DAYS 去享受吧！
+Dialogue: 0,2:44:54.34,2:44:58.42,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}Diamond days 楽しもう！
+Dialogue: 0,2:44:54.34,2:44:58.42,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}享受这Diamond days吧！
 Dialogue: 0,2:44:58.47,2:45:01.92,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}嬉しくて伝えたくなる
 Dialogue: 0,2:44:58.47,2:45:01.92,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}想传达心中喜悦
 Dialogue: 0,2:45:02.07,2:45:06.27,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(100,150)\blur5}“ありがとう”これからも一緒に
