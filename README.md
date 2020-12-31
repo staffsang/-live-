@@ -7,7 +7,7 @@
 排名不分先后：
 - **森野千里**（ML） [B站](https://space.bilibili.com/2724452/)  
 - **YasuharaP**（CG） [B站](https://space.bilibili.com/205085081/)  
-- **二阶台妄想** [B站](https://space.bilibili.com/258357/)  
+- **二阶台妄想** [B站](https://space.bilibili.com/258357/)  [A站](https://www.acfun.cn/u/449294)（没有大会员建议到A站看）  
 - **a245** [B站](https://space.bilibili.com/4311183/)  
 - **阡陌_单推p** [B站](https://space.bilibili.com/19555904/)  
 - **蜜柑ぴ** [B站](https://space.bilibili.com/14971167/)  
