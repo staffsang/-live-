@@ -3,6 +3,8 @@
 ## [lofter](https://staffsang.lofter.com/post/1f27d791_11a76b36)
 也是用来更新字幕文件的文章 
 
+如果是第一次使用github的同僚，要下载单独的文件可以点进文件后在右侧找到Raw按钮，右键另存为即可下载
+
 # 字幕制作主催 
 排名不分先后：
 - **森野千里**（ML） [B站](https://space.bilibili.com/2724452/)  
