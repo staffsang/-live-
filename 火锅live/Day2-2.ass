@@ -15,10 +15,10 @@ Audio File: X:/火锅/THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! (BDr
 Video File: X:/火锅/THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! (BDrip 1080p HEVC)/THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! Day2 Disc2 (BDrip 1080p HEVC FLAC+AC3).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 2719
-Active Line: 2728
-Video Position: 217640
+Video Zoom Percent: 0.625000
+Scroll Position: 1709
+Active Line: 1733
+Video Position: 110419
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1882,7 +1882,7 @@ Dialogue: 0,1:01:17.06,1:01:22.72,アライブファクター,,0,0,0,,{\3vc(&HD2
 Dialogue: 1,1:01:19.34,1:01:23.30,田所あずさ - 日语,,0,0,0,,{\fad(2000,200)\blur5\an3}さぁ歓びの調べを
 Dialogue: 1,1:01:19.34,1:01:23.30,田所あずさ,,0,0,0,,{\fad(2000,200)\blur5\an3}来吧 唱响这喜悦的旋律
 Dialogue: 0,1:01:24.30,1:01:26.40,今井麻美 - 日语,,0,0,0,,{\fad(500,0)\blur5}存在証明する「蒼」生きてゆくための証
-Dialogue: 0,1:01:24.30,1:01:26.40,今井麻美,,0,0,0,,{\fad(500,0)\blur5}强调着存在的「蒼」为了生存而紧握的证明
+Dialogue: 0,1:01:24.30,1:01:26.40,今井麻美,,0,0,0,,{\fad(500,0)\blur5}强调着存在的「苍」为了生存而紧握的证明
 Dialogue: 1,1:01:26.40,1:01:26.97,アライブファクター - 日语,,0,0,0,,{\blur5}{\3vc(&HD24327&,&HCF9564&,&HD24327&,&HCF9564&)}存在証明する「蒼」生きてゆくための証
 Dialogue: 1,1:01:26.40,1:01:26.97,アライブファクター,,0,0,0,,{\blur5}{\3vc(&HD24327&,&HCF9564&,&HD24327&,&HCF9564&)}强调着存在的「蒼」为了生存而紧握的证明
 Dialogue: 2,1:01:26.97,1:01:28.95,田所あずさ - 日语,,0,0,0,,{\fad(0,85)\blur5}存在証明する「蒼」生きてゆくための証
