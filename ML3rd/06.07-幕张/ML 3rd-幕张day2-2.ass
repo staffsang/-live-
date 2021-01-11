@@ -16,8 +16,8 @@ Video File: X:/ML3rd/06&07幕张/[Team H@ssan] THE IDOLM@STER MILLION LIVE! 3rdL
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 550
-Active Line: 556
+Scroll Position: 591
+Active Line: 600
 Video Position: 56233
 
 [V4+ Styles]
@@ -683,7 +683,7 @@ Dialogue: 0,0:31:28.40,0:31:30.69,田所あずさ,,0,0,0,,{\fad(60,85)\blur5}在
 Dialogue: 0,0:31:30.89,0:31:35.53,あずさ+Machico - 日语,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(60,85)\blur5}私が選んだ 私へと
 Dialogue: 0,0:31:30.89,0:31:35.53,あずさ+Machico,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(60,85)\blur5}走上我自己选择的道路
 Dialogue: 0,0:31:35.87,0:31:38.86,あずさ+Machico - 日语,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(60,85)\blur5}完全凌駕する「蒼」
-Dialogue: 0,0:31:35.87,0:31:38.86,あずさ+Machico,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(60,85)\blur5}凌驾一切的「苍」
+Dialogue: 0,0:31:35.87,0:31:38.86,あずさ+Machico,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(60,85)\blur5}凌驾一切的「苍色」
 Dialogue: 0,0:31:38.86,0:31:40.69,あずさ+Machico - 日语,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(60,85)\blur5}ここで生きている証
 Dialogue: 0,0:31:38.86,0:31:40.69,あずさ+Machico,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(60,85)\blur5}即是生存于此处的证明
 Dialogue: 0,0:31:40.88,0:31:45.43,あずさ+Machico - 日语,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(60,85)\blur5}掲げ 自由なるファクター
@@ -711,9 +711,9 @@ Dialogue: 0,0:32:44.03,0:32:48.70,あずさ+Machico,,0,0,0,,{\3vc(&HCF9564&,&H52
 Dialogue: 1,0:32:47.90,0:32:49.84,あずさ+Machico - 日语,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(500,300)\blur5}この 歓びの調べを
 Dialogue: 1,0:32:47.90,0:32:49.84,あずさ+Machico,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(500,300)\blur5}来吧 唱响这喜悦的旋律
 Dialogue: 0,0:32:50.84,0:32:53.18,Machico - 日语,,0,0,0,,{\fad(200,0)\blur5}存在証明する「蒼」生きてゆくための証
-Dialogue: 0,0:32:50.84,0:32:53.18,Machico,,0,0,0,,{\fad(200,0)\blur5}强调着存在的「蒼」为了生存而紧握的证明
+Dialogue: 0,0:32:50.84,0:32:53.18,Machico,,0,0,0,,{\fad(200,0)\blur5}强调着存在的「苍色」为了生存而紧握的证明
 Dialogue: 0,0:32:53.18,0:32:55.71,田所あずさ - 日语,,0,0,0,,{\blur5\fad(0,85)}{\3c&H52D5FE&}存在証明する{\3c&HCF9564&}「蒼」生きてゆくための証
-Dialogue: 0,0:32:53.18,0:32:55.71,田所あずさ,,0,0,0,,{\blur5\fad(0,85)}{\3c&H52D5FE&}强调着存在的{\3c&HCF9564&}「蒼」为了生存而紧握的证明
+Dialogue: 0,0:32:53.18,0:32:55.71,田所あずさ,,0,0,0,,{\blur5\fad(0,85)}{\3c&H52D5FE&}强调着存在的{\3c&HCF9564&}「苍色」为了生存而紧握的证明
 Dialogue: 0,0:32:55.87,0:33:00.47,あずさ+Machico - 日语,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(60,85)\blur5}響け この胸のファクター
 Dialogue: 0,0:32:55.87,0:33:00.47,あずさ+Machico,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(60,85)\blur5}让心中散布的因素鸣响
 Dialogue: 0,0:33:00.82,0:33:03.18,あずさ+Machico - 日语,,0,0,0,,{\3vc(&H52D5FE&,&HCF9564&,&H52D5FE&,&HCF9564&)}{\fad(60,85)\blur5}感情共鳴する
