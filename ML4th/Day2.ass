@@ -15,10 +15,10 @@ Audio File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDO
 Video File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE! DAY2 Bluemoon Theater.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 2551
-Active Line: 2565
-Video Position: 242267
+Video Zoom Percent: 0.625000
+Scroll Position: 3196
+Active Line: 3209
+Video Position: 306909
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1615,7 +1615,7 @@ Dialogue: 0,1:22:22.04,1:22:27.45,藤井ゆきよ,,0,0,0,,{\fad(60,85)\blur5}眼
 Dialogue: 0,1:22:22.04,1:22:27.45,藤井ゆきよ - 日语,,0,0,0,,{\fad(60,85)\blur5}雫は―――イノセント・ハート
 Dialogue: 0,1:22:48.60,1:22:49.61,藤井ゆきよ,,0,0,0,,{\fad(60,85)\blur5}对不起
 Dialogue: 0,1:22:48.60,1:22:49.61,藤井ゆきよ - 日语,,0,0,0,,{\fad(60,85)\blur5}ごめんね
-Dialogue: 0,1:22:49.81,1:22:52.74,藤井ゆきよ,,0,0,0,,{\fad(60,85)\blur5}每当这样想 
+Dialogue: 0,1:22:49.81,1:22:52.74,藤井ゆきよ,,0,0,0,,{\fad(60,85)\blur5}每当这样想
 Dialogue: 0,1:22:49.81,1:22:52.74,藤井ゆきよ - 日语,,0,0,0,,{\fad(60,85)\blur5}思うたび、傷ついて、
 Dialogue: 0,1:22:53.11,1:22:55.35,藤井ゆきよ,,0,0,0,,{\fad(60,85)\blur5}伤痛便愈加刻骨铭心
 Dialogue: 0,1:22:53.11,1:22:55.35,藤井ゆきよ - 日语,,0,0,0,,{\fad(60,85)\blur5}刻まれてく
@@ -2197,7 +2197,7 @@ Comment: 0,1:53:13.24,1:53:13.92,平山笑美 - MC,,0,0,0,,17.FIND YOUR WIND!
 Dialogue: 0,1:53:14.37,1:53:18.72,平山笑美 - MC,,0,0,0,,{\blur5}制作人 一起去寻找风吧！
 Dialogue: 0,1:53:19.34,1:53:25.17,平山笑美 - 日语,,0,0,0,,{\fad(60,85)\blur5}ゴールはまだわからないけれど
 Dialogue: 0,1:53:19.34,1:53:25.17,平山笑美,,0,0,0,,{\fad(60,85)\blur5}尽管仍然不清楚终点在何方
-Dialogue: 0,1:53:25.21,1:53:29.17,平山笑美 - 日语,,0,0,0,,{\fad(60,85)\blur5}スタートラインここだよ 
+Dialogue: 0,1:53:25.21,1:53:29.17,平山笑美 - 日语,,0,0,0,,{\fad(60,85)\blur5}スタートラインここだよ
 Dialogue: 0,1:53:25.21,1:53:29.17,平山笑美,,0,0,0,,{\fad(60,85)\blur5}可起跑线就近在眼前了
 Dialogue: 0,1:53:29.19,1:53:31.44,平山笑美,,0,0,0,,{\fad(60,85)\blur5}Let's find your wind!
 Dialogue: 0,1:53:31.44,1:53:36.87,平山笑美 - 日语,,0,0,0,,{\fad(60,85)\blur5}通り雨のあとに架かった虹の向こう
@@ -2798,13 +2798,13 @@ Dialogue: 0,2:20:35.18,2:20:39.47,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7
 Dialogue: 0,2:20:39.79,2:20:49.68,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,200)\blur5}どこまでも続く 五線譜の軌跡
 Dialogue: 0,2:20:39.79,2:20:49.68,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,200)\blur5}无论何处也延续的 五线谱的轨迹
 Dialogue: 0,2:21:06.80,2:21:10.00,田所あずさ - 日语,,0,0,0,,{\fad(60,150)\blur5}breathtaking…息をのんだ
-Dialogue: 0,2:21:06.80,2:21:10.00,田所あずさ,,0,0,0,,{\fad(60,150)\blur5}breathtaking…不由得屏息 
+Dialogue: 0,2:21:06.80,2:21:10.00,田所あずさ,,0,0,0,,{\fad(60,150)\blur5}breathtaking…不由得屏息
 Dialogue: 0,2:21:10.21,2:21:13.60,田所あずさ - 日语,,0,0,0,,{\fad(60,150)\blur5}空の美しさに
 Dialogue: 0,2:21:10.21,2:21:13.60,田所あずさ,,0,0,0,,{\fad(60,150)\blur5}天空竟如此美丽
 Dialogue: 0,2:21:13.89,2:21:19.07,田所あずさ - 日语,,0,0,0,,{\fad(60,150)\blur5}戸惑う心が透き通ってく
 Dialogue: 0,2:21:13.89,2:21:19.07,田所あずさ,,0,0,0,,{\fad(60,150)\blur5}踌躇的内心豁然开朗
 Dialogue: 0,2:21:20.47,2:21:23.67,阿部里果 - 日语,,0,0,0,,{\fad(60,150)\blur5}Symphony かさなりあう
-Dialogue: 0,2:21:20.47,2:21:23.67,阿部里果,,0,0,0,,{\fad(60,150)\blur5}symphony 重重交织 
+Dialogue: 0,2:21:20.47,2:21:23.67,阿部里果,,0,0,0,,{\fad(60,150)\blur5}symphony 重重交织
 Dialogue: 0,2:21:23.95,2:21:26.83,阿部里果 - 日语,,0,0,0,,{\fad(60,150)\blur5}今がその時だよ
 Dialogue: 0,2:21:23.95,2:21:26.83,阿部里果,,0,0,0,,{\fad(60,150)\blur5}此刻正是时机
 Dialogue: 0,2:21:26.94,2:21:33.25,阿部里果 - 日语,,0,0,0,,{\fad(60,150)\blur5}さあ 顔をあげなくちゃダメさ
@@ -2816,13 +2816,13 @@ Dialogue: 0,2:21:37.65,2:21:40.12,近藤唯,,0,0,0,,{\fad(60,150)\blur5}在这�
 Dialogue: 0,2:21:40.22,2:21:46.53,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}信じる翼チカラをください
 Dialogue: 0,2:21:40.22,2:21:46.53,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}我所深信的翅膀 请赐予我力量
 Dialogue: 0,2:21:46.85,2:21:50.16,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}高く高く 祈る鼓動
-Dialogue: 0,2:21:46.85,2:21:50.16,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}高耸入云的 鼓动的祈愿 
+Dialogue: 0,2:21:46.85,2:21:50.16,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}高耸入云的 鼓动的祈愿
 Dialogue: 0,2:21:50.27,2:21:53.76,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}羽ばたいて！わたし達の歌
 Dialogue: 0,2:21:50.27,2:21:53.76,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}展翅高飞吧！我们的歌
 Dialogue: 0,2:21:53.92,2:22:00.32,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}確かな旋律が 雲を突き抜けていくの
 Dialogue: 0,2:21:53.92,2:22:00.32,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}确切有力的旋律 穿云破雾突破天际
 Dialogue: 0,2:22:00.59,2:22:03.79,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}青に染まる 音の行方
-Dialogue: 0,2:22:00.59,2:22:03.79,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}那声音的去向 渐染上苍蓝 
+Dialogue: 0,2:22:00.59,2:22:03.79,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}那声音的去向 渐染上苍蓝
 Dialogue: 0,2:22:04.03,2:22:07.47,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}輝きだす歌が聴こえる
 Dialogue: 0,2:22:04.03,2:22:07.47,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}闪耀的歌声你可听见了吗？
 Dialogue: 0,2:22:07.65,2:22:14.38,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}耳に触れたのは アザヤカな風のエコー
@@ -2836,13 +2836,13 @@ Dialogue: 0,2:22:41.09,2:22:44.40,田所あずさ,,0,0,0,,{\fad(60,150)\blur5}�
 Dialogue: 0,2:22:44.56,2:22:50.06,田所あずさ - 日语,,0,0,0,,{\fad(60,150)\blur5}知らない自分になった気がした
 Dialogue: 0,2:22:44.56,2:22:50.06,田所あずさ,,0,0,0,,{\fad(60,150)\blur5}察觉到成为了未曾发现的自己
 Dialogue: 0,2:22:51.38,2:22:54.54,阿部里果 - 日语,,0,0,0,,{\fad(60,150)\blur5}だけど気づいたから
-Dialogue: 0,2:22:51.38,2:22:54.54,阿部里果,,0,0,0,,{\fad(60,150)\blur5}然而 正是因为意识到 
+Dialogue: 0,2:22:51.38,2:22:54.54,阿部里果,,0,0,0,,{\fad(60,150)\blur5}然而 正是因为意识到
 Dialogue: 0,2:22:54.80,2:22:57.71,阿部里果 - 日语,,0,0,0,,{\fad(60,150)\blur5}ちゃんとわかったから
 Dialogue: 0,2:22:54.80,2:22:57.71,阿部里果,,0,0,0,,{\fad(60,150)\blur5}正是因为清楚地明白这点
 Dialogue: 0,2:22:57.82,2:23:04.13,阿部里果 - 日语,,0,0,0,,{\fad(60,150)\blur5}そうだ…これは魔法なんかじゃない
 Dialogue: 0,2:22:57.82,2:23:04.13,阿部里果,,0,0,0,,{\fad(60,150)\blur5}没错…这并不是什么所谓的魔法
 Dialogue: 0,2:23:04.24,2:23:08.16,伊藤美来 - 日语,,0,0,0,,{\fad(60,150)\blur5}あなたから貰った全部を
-Dialogue: 0,2:23:04.24,2:23:08.16,伊藤美来,,0,0,0,,{\fad(60,150)\blur5}将你所赠与的全部 
+Dialogue: 0,2:23:04.24,2:23:08.16,伊藤美来,,0,0,0,,{\fad(60,150)\blur5}将你所赠与的全部
 Dialogue: 0,2:23:08.50,2:23:10.74,近藤唯 - 日语,,0,0,0,,{\fad(60,150)\blur5}可能性にしよう
 Dialogue: 0,2:23:08.50,2:23:10.74,近藤唯,,0,0,0,,{\fad(60,150)\blur5}如数化为自己的可能性吧
 Dialogue: 0,2:23:11.07,2:23:17.41,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}負けない翼 証明するの
@@ -2852,11 +2852,11 @@ Dialogue: 0,2:23:17.76,2:23:21.09,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7
 Dialogue: 0,2:23:21.09,2:23:24.72,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}強さと儚さの狭間で
 Dialogue: 0,2:23:21.09,2:23:24.72,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}强大和虚幻的狭缝之间
 Dialogue: 0,2:23:24.80,2:23:26.98,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}自由な旋律が
-Dialogue: 0,2:23:24.80,2:23:26.98,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}自由的旋律 
+Dialogue: 0,2:23:24.80,2:23:26.98,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}自由的旋律
 Dialogue: 0,2:23:27.18,2:23:31.09,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}わたし達の今日と呼べる
 Dialogue: 0,2:23:27.18,2:23:31.09,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}正是我们所呼唤的今日
 Dialogue: 0,2:23:31.46,2:23:34.69,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}叫ぶように 撫でるように
-Dialogue: 0,2:23:31.46,2:23:34.69,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}如我们呐喊般 如我们抚摸般 
+Dialogue: 0,2:23:31.46,2:23:34.69,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}如我们呐喊般 如我们抚摸般
 Dialogue: 0,2:23:34.87,2:23:38.28,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}羽ばたきだす歌が聴こえる
 Dialogue: 0,2:23:34.87,2:23:38.28,Blue Symphony,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}展翅飞翔的歌声你可听见了吗？
 Dialogue: 0,2:23:38.51,2:23:45.12,Blue Symphony - 日语,,0,0,0,,{\3vc(&H403BB6&,&H3CB8C7&,&HCF9564&,&HDCB799&)}{\fad(60,150)\blur5}クリアな心で 共鳴しあう世界
@@ -2870,7 +2870,7 @@ Dialogue: 0,2:24:12.60,2:24:16.05,Blue Symphony,,0,0,0,,{\3vc(&H3CB8C7&,&HCF9564
 Dialogue: 0,2:24:16.21,2:24:22.62,Blue Symphony - 日语,,0,0,0,,{\3vc(&HDCB799&,&H403BB6&,&HDCB799&,&H403BB6&)}{\fad(60,150)\blur5}確かな旋律が 雲を突き抜けていくの
 Dialogue: 0,2:24:16.21,2:24:22.62,Blue Symphony,,0,0,0,,{\3vc(&HDCB799&,&H403BB6&,&HDCB799&,&H403BB6&)}{\fad(60,150)\blur5}确切有力的旋律 穿云破雾突破天际
 Dialogue: 0,2:24:22.85,2:24:26.15,Blue Symphony - 日语,,0,0,0,,{\3vc(&H3CB8C7&,&H403BB6&,&HDCB799&,&HCF9564&)}{\fad(60,150)\blur5}青に染まる音の行方
-Dialogue: 0,2:24:22.85,2:24:26.15,Blue Symphony,,0,0,0,,{\3vc(&H3CB8C7&,&H403BB6&,&HDCB799&,&HCF9564&)}{\fad(60,150)\blur5}那声音的去向 渐染上苍蓝 
+Dialogue: 0,2:24:22.85,2:24:26.15,Blue Symphony,,0,0,0,,{\3vc(&H3CB8C7&,&H403BB6&,&HDCB799&,&HCF9564&)}{\fad(60,150)\blur5}那声音的去向 渐染上苍蓝
 Dialogue: 0,2:24:26.28,2:24:29.61,Blue Symphony - 日语,,0,0,0,,{\3vc(&H3CB8C7&,&H403BB6&,&HDCB799&,&HCF9564&)}{\fad(60,150)\blur5}輝きだす歌が聴こえる
 Dialogue: 0,2:24:26.28,2:24:29.61,Blue Symphony,,0,0,0,,{\3vc(&H3CB8C7&,&H403BB6&,&HDCB799&,&HCF9564&)}{\fad(60,150)\blur5}闪耀的歌声你可听见了吗？
 Dialogue: 0,2:24:29.94,2:24:36.75,Blue Symphony - 日语,,0,0,0,,{\3vc(&H3CB8C7&,&H403BB6&,&HDCB799&,&HCF9564&)}{\fad(60,150)\blur5}耳に触れたのは アザヤカな風のエコー
@@ -3309,9 +3309,9 @@ Dialogue: 0,2:50:14.66,2:50:20.04,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,
 Dialogue: 0,2:50:14.66,2:50:20.04,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,85)\blur5}因为想要传达的…更多！ 放声唱出最美好的…旋律！
 Dialogue: 0,2:50:20.20,2:50:26.10,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,85)\blur5}笑顔がつなぐ Happiness！
 Dialogue: 0,2:50:20.20,2:50:26.10,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,85)\blur5}一张张笑脸连接着Happiness！
-Dialogue: 0,2:50:28.79,2:50:30.90,田所あずさ - MC,,0,0,0,,{\blur5}因为在身边的都是最棒的伙伴们 
+Dialogue: 0,2:50:28.79,2:50:30.90,田所あずさ - MC,,0,0,0,,{\blur5}因为在身边的都是最棒的伙伴们
 Dialogue: 0,2:50:30.94,2:50:34.45,田所あずさ - MC,,0,0,0,,{\blur5}所以今后无论是怎样的舞台都会让你看到最棒的表现的！
-Dialogue: 0,2:50:34.69,2:50:35.71,偶像大师 - MC,,0,0,0,,{\blur5}制作人
+Dialogue: 0,2:50:34.69,2:50:35.71,田所あずさ - MC,,0,0,0,,{\blur5}制作人
 Dialogue: 0,2:50:36.10,2:50:39.51,偶像大师 - MC,,0,0,0,,{\blur5}{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}我们是…million stars！
 Dialogue: 0,2:50:55.16,2:50:59.70,偶像大师 - 日语,,0,0,0,,{\3vc(&H414345&,&HFFFFFF&,&H403BB6&,&H5795F1&)}{\fad(60,85)\blur5}さあ どこまでいこうか
 Dialogue: 0,2:50:55.16,2:50:59.70,偶像大师,,0,0,0,,{\3vc(&H414345&,&HFFFFFF&,&H403BB6&,&H5795F1&)}{\fad(60,85)\blur5}那么 我们还能走到多远
@@ -3338,7 +3338,7 @@ Dialogue: 0,2:51:39.67,2:51:45.62,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&
 Dialogue: 0,2:51:45.72,2:51:49.27,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,85)\blur5}この瞬間は可能性
 Dialogue: 0,2:51:45.72,2:51:49.27,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,85)\blur5}这个瞬间唤作可能性
 Dialogue: 0,2:51:49.34,2:51:52.05,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,85)\blur5}キラめけるよね…もっと！
-Dialogue: 0,2:51:49.34,2:51:52.05,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,85)\blur5}一定能够绽放更多的…光芒！ 
+Dialogue: 0,2:51:49.34,2:51:52.05,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,85)\blur5}一定能够绽放更多的…光芒！
 Dialogue: 0,2:51:52.16,2:51:54.69,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,85)\blur5}巻きおこすよ…感動！
 Dialogue: 0,2:51:52.16,2:51:54.69,偶像大师,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,85)\blur5}能够掀起无数的…感动！
 Dialogue: 0,2:51:54.86,2:51:57.06,偶像大师 - 日语,,0,0,0,,{\3vc(&HD4DEC1&,&HFFFFFF&,&HCCAC6F&,&HCCAC6F&)}{\fad(60,85)\blur5}届けにいくよ
