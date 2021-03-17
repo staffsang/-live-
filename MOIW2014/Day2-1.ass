@@ -15,10 +15,10 @@ Audio File: Z:/SSA2014/THE IDOLM@STER M@STERS OF IDOL WORLD!!2014 DAY2 Disc1_t01
 Video File: Z:/SSA2014/THE IDOLM@STER M@STERS OF IDOL WORLD!!2014 DAY2 Disc1_t01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 909
-Active Line: 910
-Video Position: 201494
+Video Zoom Percent: 0.500000
+Scroll Position: 1050
+Active Line: 1060
+Video Position: 94845
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1233,6 +1233,7 @@ Dialogue: 0,0:52:29.97,0:52:34.39,The world is all one !! - 日语,,0,0,0,,{\fad
 Dialogue: 0,0:52:29.97,0:52:34.39,The world is all one !!,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H765BEA&,&H302BE2&,&H302BE2&,&H9774FA&)}紧握世界所有人的手
 Dialogue: 0,0:52:34.71,0:52:36.57,The world is all one !!,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H765BEA&,&H302BE2&,&H302BE2&,&H9774FA&)}The world is all one!!
 Dialogue: 0,0:52:37.03,0:52:38.36,The world is all one !!,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H765BEA&,&H302BE2&,&H302BE2&,&H9774FA&)}Unity mind.
+Dialogue: 0,0:52:43.57,0:52:44.60,中村繪里子 - MC,,0,0,0,,{\blur5\an3}预 备
 Dialogue: 0,0:52:50.59,0:52:53.21,大橋彩香 - 日语,,0,0,0,,{\fad(60,85)\blur5}ねえ、この世界で
 Dialogue: 0,0:52:50.59,0:52:53.21,大橋彩香,,0,0,0,,{\fad(60,85)\blur5}呐 在这个世界上
 Dialogue: 0,0:52:53.40,0:52:56.17,大橋彩香 - 日语,,0,0,0,,{\fad(60,85)\blur5}ねえ、いくつの出会い
