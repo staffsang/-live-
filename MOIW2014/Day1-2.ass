@@ -12,8 +12,8 @@ YCbCr Matrix: TV.601
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 0.375000
-Scroll Position: 2087
-Active Line: 2100
+Scroll Position: 731
+Active Line: 742
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -796,7 +796,7 @@ Dialogue: 0,0:34:27.96,0:34:31.34,MUSIC~~,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD5
 Dialogue: 0,0:34:31.34,0:34:33.00,MUSIC~~,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}STANDBY STAND UP
 Dialogue: 0,0:34:33.03,0:34:35.52,MUSIC~~ - 日语,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}てっぺん目指せ!!
 Dialogue: 0,0:34:33.03,0:34:35.52,MUSIC~~,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}以顶点为目标!!
-Dialogue: 0,0:34:37.45,0:34:40.82,MUSIC~~ - 日语,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}奏でよう 夢のMUSIC♪
+Dialogue: 0,0:34:37.45,0:34:40.82,MUSIC~~ - 日语,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}奏でよう 夢のMUSIC
 Dialogue: 0,0:34:37.45,0:34:40.82,MUSIC~~,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}即刻奏响 梦想的音乐
 Dialogue: 0,0:34:40.96,0:34:43.72,MUSIC~~ - 日语,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}音符の翼
 Dialogue: 0,0:34:40.96,0:34:43.72,MUSIC~~,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}音符的翅膀
@@ -875,7 +875,7 @@ Dialogue: 0,0:37:27.00,0:37:28.70,MUSIC~~ - 日语,,0,0,0,,{\fad(0,150)}{\blur5}
 Dialogue: 0,0:37:27.00,0:37:28.70,MUSIC~~,,0,0,0,,{\fad(0,150)}{\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}更高(更高)!!更高(更高)!!更高(更高)!!
 Dialogue: 0,0:37:28.70,0:37:31.21,MUSIC~~ - 日语,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}てっぺん目指せ！！
 Dialogue: 0,0:37:28.70,0:37:31.21,MUSIC~~,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}以顶点为目标！！
-Dialogue: 0,0:37:33.12,0:37:36.48,MUSIC~~ - 日语,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}奏でよう 夢のMUSIC♪
+Dialogue: 0,0:37:33.12,0:37:36.48,MUSIC~~ - 日语,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}奏でよう 夢のMUSIC
 Dialogue: 0,0:37:33.12,0:37:36.48,MUSIC~~,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}即刻奏响 梦想的音乐
 Dialogue: 0,0:37:36.60,0:37:39.36,MUSIC~~ - 日语,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}音符の翼
 Dialogue: 0,0:37:36.60,0:37:39.36,MUSIC~~,,0,0,0,,{\fad(60,150)\blur5}{\3vc(&HD59003&,&HD24327&,&HD24327&,&HCF9564&)}音符的翅膀
