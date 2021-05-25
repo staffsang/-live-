@@ -16,8 +16,6 @@ Video File: X:/ML3rd/01名古屋/THE IDOLM@STER MILLION LIVE! 3rdLIVE TOUR BELIE
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 57
-Active Line: 77
 Video Position: 274367
 
 [V4+ Styles]
@@ -92,7 +90,7 @@ Style: 伊藤美来 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H003CB8C7,&H
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.84,staff（1）,,0,0,0,,{\blur5}{\fad(100,100)}本资源仅供学习交流用 请于下载后24小时内删除 \N任何组织和个人不得以商业目的使用本字幕\N若出现任何法律问题 均已本字幕组无关
+Dialogue: 0,0:00:00.00,0:00:04.84,staff（1）,,0,0,0,,{\blur5}{\fad(100,100)}本资源仅供学习交流用 请于下载后24小时内删除 \N任何组织和个人不得以商业目的使用本字幕\N若出现任何法律问题 均与本字幕组无关
 Dialogue: 0,0:00:00.00,0:00:04.84,staff（1）,,0,0,0,,{\fad(100,100)}{\blur8.001\pos(1624,268)}片源：凯尔德拉斯、上坂道
 Dialogue: 0,0:00:00.00,0:00:04.84,staff（1）,,0,0,0,,{\fad(100,100)}{\blur8.001\pos(1625.999,180)}填词：加奈、三水
 Dialogue: 0,0:00:00.00,0:00:04.84,staff（1）,,0,0,0,,{\fad(100,100)}{\blur8.001\pos(268,188.001)}翻译：三つ葉の結びめ
