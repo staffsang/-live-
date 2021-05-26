@@ -15,10 +15,10 @@ Audio File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDO
 Video File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE! DAY1 Sunshine Theater.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 4375
-Active Line: 4379
-Video Position: 387984
+Video Zoom Percent: 0.500000
+Scroll Position: 1444
+Active Line: 1445
+Video Position: 125333
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1553,7 +1553,7 @@ Dialogue: 0,1:09:31.70,1:09:33.92,Machico - 日语,,0,0,0,,{\fad(60,85)\blur5}�
 Dialogue: 0,1:09:34.31,1:09:38.36,Machico,,0,0,0,,{\fad(60,85)\blur5}拉钩约好的KISS?初级篇到此结束
 Dialogue: 0,1:09:34.31,1:09:38.36,Machico - 日语,,0,0,0,,{\fad(60,85)\blur5}ゆびきりのKISS?初級編おしまい
 Dialogue: 0,1:09:38.55,1:09:39.37,Machico,,0,0,0,,{\fad(60,85)\blur5}CHU
-Comment: 0,1:09:41.93,1:09:42.42,キャンサー,,0,0,0,,10.キャンサー
+Comment: 0,1:09:41.93,1:09:42.42,キャンサー,,0,0,0,,10.ランニング・ハイッ
 Dialogue: 0,1:09:42.56,1:09:45.33,キャンサー - 日语,,0,0,0,,{\3vc(&H714155&,&HC58B78&,&HC58B78&,&H2C34D1&)}{\fad(55,75)\blur5}{\3vc(&H714155&,&HC58B78&,&HC58B78&,&H2C34D1&)}いっせーの！いっせーの！いっせーの！でDON!
 Dialogue: 0,1:09:42.56,1:09:45.33,キャンサー,,0,0,0,,{\3vc(&H714155&,&HC58B78&,&HC58B78&,&H2C34D1&)}{\fad(55,75)\blur5}{\3vc(&H714155&,&HC58B78&,&HC58B78&,&H2C34D1&)}一二三！一二三！一二三！出发！
 Dialogue: 0,1:09:46.71,1:09:47.24,キャンサー - 日语,,0,0,0,,{\3vc(&H714155&,&HC58B78&,&HC58B78&,&H2C34D1&)}{\fad(55,75)\blur5}HEY！
