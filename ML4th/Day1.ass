@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE! DAY1 Sunshine Theater.mp4
-Video File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE! DAY1 Sunshine Theater.mp4
+Audio File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!! DAY1 Sunshine Theater_t00.mkv
+Video File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!! DAY1 Sunshine Theater_t00.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1444
-Active Line: 1445
-Video Position: 125333
+Video Zoom Percent: 0.250000
+Scroll Position: 304
+Active Line: 315
+Video Position: 32748
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -423,7 +423,7 @@ Dialogue: 0,0:18:02.31,0:18:07.63,偶像大师,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&
 Dialogue: 0,0:18:07.78,0:18:12.64,偶像大师 - 日语,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}楽しいを刻むサンリズム・オーケストラ♪
 Dialogue: 0,0:18:07.78,0:18:12.64,偶像大师,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}将快乐铭刻心中 Sun Rhythm Orchestra♪
 Dialogue: 0,0:18:12.66,0:18:18.07,偶像大师 - 日语,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}ハチャメチャ 踊り疲れたいね
-Dialogue: 0,0:18:12.66,0:18:18.07,偶像大师,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}将快乐铭刻心中 Sun Rhythm Orchestra♪
+Dialogue: 0,0:18:12.66,0:18:18.07,偶像大师,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}想要一直舞动 直到精疲力尽
 Dialogue: 0,0:18:18.11,0:18:20.47,偶像大师 - 日语,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}もっと気まぐれな衝動
 Dialogue: 0,0:18:18.11,0:18:20.47,偶像大师,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}更多异想天开的冲动
 Dialogue: 0,0:18:20.43,0:18:22.39,偶像大师 - 日语,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}{\an3}歌って
