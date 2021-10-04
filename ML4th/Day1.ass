@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE! DAY1 Sunshine Theater.mp4
-Video File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE! DAY1 Sunshine Theater.mp4
+Audio File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!! DAY1 Sunshine Theater_t00.mkv
+Video File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!! DAY1 Sunshine Theater_t00.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 4375
-Active Line: 4379
-Video Position: 387984
+Video Zoom Percent: 0.250000
+Scroll Position: 2231
+Active Line: 2246
+Video Position: 32748
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -423,7 +423,7 @@ Dialogue: 0,0:18:02.31,0:18:07.63,偶像大师,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&
 Dialogue: 0,0:18:07.78,0:18:12.64,偶像大师 - 日语,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}楽しいを刻むサンリズム・オーケストラ♪
 Dialogue: 0,0:18:07.78,0:18:12.64,偶像大师,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}将快乐铭刻心中 Sun Rhythm Orchestra♪
 Dialogue: 0,0:18:12.66,0:18:18.07,偶像大师 - 日语,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}ハチャメチャ 踊り疲れたいね
-Dialogue: 0,0:18:12.66,0:18:18.07,偶像大师,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}将快乐铭刻心中 Sun Rhythm Orchestra♪
+Dialogue: 0,0:18:12.66,0:18:18.07,偶像大师,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}想要一直舞动 直到精疲力尽
 Dialogue: 0,0:18:18.11,0:18:20.47,偶像大师 - 日语,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}もっと気まぐれな衝動
 Dialogue: 0,0:18:18.11,0:18:20.47,偶像大师,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}更多异想天开的冲动
 Dialogue: 0,0:18:20.43,0:18:22.39,偶像大师 - 日语,,0,0,0,,{\3vc(&H61FEFF&,&H61DFFF&,&H619FFF&,&H619FFF&)}{\fad(60,85)\blur5}{\an3}歌って
@@ -1553,7 +1553,7 @@ Dialogue: 0,1:09:31.70,1:09:33.92,Machico - 日语,,0,0,0,,{\fad(60,85)\blur5}�
 Dialogue: 0,1:09:34.31,1:09:38.36,Machico,,0,0,0,,{\fad(60,85)\blur5}拉钩约好的KISS?初级篇到此结束
 Dialogue: 0,1:09:34.31,1:09:38.36,Machico - 日语,,0,0,0,,{\fad(60,85)\blur5}ゆびきりのKISS?初級編おしまい
 Dialogue: 0,1:09:38.55,1:09:39.37,Machico,,0,0,0,,{\fad(60,85)\blur5}CHU
-Comment: 0,1:09:41.93,1:09:42.42,キャンサー,,0,0,0,,10.キャンサー
+Comment: 0,1:09:41.93,1:09:42.42,キャンサー,,0,0,0,,10.ランニング・ハイッ
 Dialogue: 0,1:09:42.56,1:09:45.33,キャンサー - 日语,,0,0,0,,{\3vc(&H714155&,&HC58B78&,&HC58B78&,&H2C34D1&)}{\fad(55,75)\blur5}{\3vc(&H714155&,&HC58B78&,&HC58B78&,&H2C34D1&)}いっせーの！いっせーの！いっせーの！でDON!
 Dialogue: 0,1:09:42.56,1:09:45.33,キャンサー,,0,0,0,,{\3vc(&H714155&,&HC58B78&,&HC58B78&,&H2C34D1&)}{\fad(55,75)\blur5}{\3vc(&H714155&,&HC58B78&,&HC58B78&,&H2C34D1&)}一二三！一二三！一二三！出发！
 Dialogue: 0,1:09:46.71,1:09:47.24,キャンサー - 日语,,0,0,0,,{\3vc(&H714155&,&HC58B78&,&HC58B78&,&H2C34D1&)}{\fad(55,75)\blur5}HEY！
@@ -2354,7 +2354,7 @@ Dialogue: 0,1:43:14.04,1:43:15.34,角元明日香 - MC,,0,0,0,,{\blur5}慢慢来
 Dialogue: 0,1:43:16.30,1:43:20.34,中村温姫 - MC,,0,0,0,,{\blur5}那么来听听下一首曲子吧！
 Dialogue: 0,1:43:20.53,1:43:21.88,中村温姫 - MC,,0,0,0,,{\blur5}接下来是
 Dialogue: 0,1:43:22.15,1:43:24.60,偶像大师 - MC,,0,0,0,,{\blur5}这首歌！
-Comment: 0,1:43:25.16,1:43:26.15,偶像大师,,0,0,0,,15.微笑み日和
+Comment: 0,1:43:25.16,1:43:26.15,偶像大师,,0,0,0,,15.微笑み日和 
 Dialogue: 0,1:43:26.70,1:43:29.87,郁原ゆう - 日语,,0,0,0,,{\fad(150,200)\blur5}会いたい明日へと
 Dialogue: 0,1:43:26.70,1:43:29.87,郁原ゆう,,0,0,0,,{\fad(150,200)\blur5}朝着向往的明天
 Dialogue: 0,1:43:30.12,1:43:34.61,郁原ゆう - 日语,,0,0,0,,{\fad(150,200)\blur5}迷わず行きましょう

@@ -1,9 +1,12 @@
+如果是第一次使用github的同僚，要下载单独的文件可以点进文件后在右侧找到**Raw**按钮，右键**另存为**（或**链接另存为**）即可下载
+代投代存、参加协助、报错、请求填坑可以联系我
+
 # -live-
 用来更新偶像大师live字幕文件
 ## [lofter](https://staffsang.lofter.com/post/1f27d791_11a76b36)
 也是用来更新字幕文件的文章 
 
-如果是第一次使用github的同僚，要下载单独的文件可以点进文件后在右侧找到**Raw**按钮，右键**另存为**（或**链接另存为**）即可下载
+
 
 # 字幕制作主催 
 排名不分先后：
@@ -20,8 +23,9 @@
 |      简称      |                                全称                                   |    备注    |
 |---------------|-----------------------------------------------------------------------|-----------|
 |**4th**        | THE IDOLM@STER 4th ANNIVERSARY PARTY SPECIAL DREAM TOUR’S!! IN TOKYO  |  
+|**5th**        | THE IDOLM@STER 5th ANNIVERSARY THE WORLD IS ALL ONE !!                |  没做完  |
 |**8th**        | THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!!                  |  没做完  |
-|**moiw2014**   | THE IDOLM@STER M@STERS OF IDOL WORLD!!2014                            |  
+|**moiw2014**   | THE IDOLM@STER M@STERS OF IDOL WORLD!!2014                            |    
 |**9th**        | THE IDOLM@STER 9th ANNIVERSARY WE ARE M@STERPIECE!!                   |  
 |**10th**       | THE IDOLM@STER M@STERS OF IDOL WORLD!!2015                            |
 |**ML2nd**      | THE IDOLM@STER MILLION LIVE! 2ndLIVE ENJOY H@RMONY!!                  |  

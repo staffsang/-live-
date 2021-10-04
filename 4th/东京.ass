@@ -16,8 +16,8 @@ Video File: Z:/4th/THE IDOLM@STER 4th Tokyo JCB Hall.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 2431
-Active Line: 2402
+Scroll Position: 441
+Active Line: 460
 Video Position: 165393
 
 [V4+ Styles]
@@ -513,7 +513,7 @@ Dialogue: 0,0:21:58.82,0:22:03.19,長谷川明子,,0,0,0,,{\fad(60,85)\blur5}加
 Dialogue: 0,0:22:03.20,0:22:05.98,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H302BE2&,&H4BE0B4&,&H302BE2&,&H4BE0B4&)}ねえ 走るよ
 Dialogue: 0,0:22:03.20,0:22:05.98,偶像大师,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H302BE2&,&H4BE0B4&,&H302BE2&,&H4BE0B4&)}呐 出发吧
 Dialogue: 0,0:22:06.27,0:22:11.57,偶像大师 - 日语,,0,0,0,,{\3vc(&H302BE2&,&H4BE0B4&,&H302BE2&,&H4BE0B4&)}{\fad(60,85)\blur5}君まで届きたい 裸足のままで
-Dialogue: 0,0:22:06.27,0:22:11.57,偶像大师,,0,0,0,,{\3vc(&H302BE2&,&H4BE0B4&,&H302BE2&,&H4BE0B4&)}{\fad(60,85)\blur5}想要跟上你的步伐！哪怕光着小脚
+Dialogue: 0,0:22:06.27,0:22:11.57,偶像大师,,0,0,0,,{\3vc(&H302BE2&,&H4BE0B4&,&H302BE2&,&H4BE0B4&)}{\fad(60,85)\blur5}想要跟上你的步伐 哪怕光着小脚
 Dialogue: 0,0:22:11.77,0:22:17.67,偶像大师 - 日语,,0,0,0,,{\3vc(&H302BE2&,&H4BE0B4&,&H302BE2&,&H4BE0B4&)}{\fad(60,85)\blur5}坂道続いても諦めたりしない
 Dialogue: 0,0:22:11.77,0:22:17.67,偶像大师,,0,0,0,,{\3vc(&H302BE2&,&H4BE0B4&,&H302BE2&,&H4BE0B4&)}{\fad(60,85)\blur5}在这无尽的坡道上 不愿放弃
 Dialogue: 0,0:22:17.87,0:22:22.85,偶像大师 - 日语,,0,0,0,,{\3vc(&H302BE2&,&H4BE0B4&,&H302BE2&,&H4BE0B4&)}{\fad(60,85)\blur5}手に入れたいものを数え上げて
