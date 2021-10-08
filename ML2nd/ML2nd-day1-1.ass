@@ -101,7 +101,7 @@ Style: 渡部優衣+戸田めぐみ - 日语,A-OTF Jun Pro 501,50,&H00FFFFFF,&H0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:12.00,偶像大师,,0,0,0,,{\an1\fad(0,1000)\blur5}上半场部分翻译：西行寺·幽华\NMC校对：              后母辣酱、空空空\N下半场MC翻译：  YukiP\N时轴：                    staff
-Comment: 0,0:01:14.35,0:01:16.35,偶像大师,,0,0,0,,01.Thank You!
+Comment: 0,0:01:14.35,0:01:16.35,偶像大师,,0,0,0,,01.Thank You! #全体曲也都要更新
 Dialogue: 0,0:01:16.35,0:01:17.44,偶像大师,,0,0,0,,{\fad(60,85)\blur5}Thank you for
 Dialogue: 0,0:01:17.49,0:01:22.13,偶像大师,,0,0,0,,{\fad(60,85)\blur5}创造出数之不尽的舞台
 Dialogue: 0,0:01:17.49,0:01:22.13,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}つくろう 数えきれないステージ
@@ -2702,9 +2702,9 @@ Dialogue: 0,1:53:41.07,1:53:45.32,田所+伊藤+小岩井,,0,0,0,,{\fad(60,85)\b
 Dialogue: 0,1:53:41.07,1:53:45.32,田所+伊藤+小岩井 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HCF9564&,&H3CB8C7&,&HB4C5AA&,&HE3E3BE&)}元気になるコンチェルト
 Dialogue: 0,1:53:45.54,1:53:47.57,田所+伊藤+小岩井,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HCF9564&,&H3CB8C7&,&HB4C5AA&,&HE3E3BE&)}让我们一起创造吧
 Dialogue: 0,1:53:45.54,1:53:47.57,田所+伊藤+小岩井 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HCF9564&,&H3CB8C7&,&HB4C5AA&,&HE3E3BE&)}一緒につくろう
-Dialogue: 0,1:53:50.03,1:53:52.00,伊藤美来 - MC,,0,0,0,,{\fad(60,85)\blur5}lady and gentlemen
-Dialogue: 0,1:53:52.00,1:53:53.32,伊藤美来 - MC,,0,0,0,,{\fad(60,85)\blur5}Welcome The
-Dialogue: 0,1:53:53.67,1:53:56.68,偶像大师 - MC,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HCF9564&,&H3CB8C7&,&HB4C5AA&,&HE3E3BE&)}MILLIONSTARS
+Dialogue: 0,1:53:50.03,1:53:52.00,伊藤美来 - MC,,0,0,0,,{\fad(60,85)\blur5}Ladies and gentlemen
+Dialogue: 0,1:53:52.00,1:53:53.32,伊藤美来 - MC,,0,0,0,,{\fad(60,85)\blur5}here comes
+Dialogue: 0,1:53:53.67,1:53:56.68,偶像大师 - MC,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HCF9564&,&H3CB8C7&,&HB4C5AA&,&HE3E3BE&)}MILLIONSTARS!!
 Dialogue: 0,1:53:58.62,1:54:02.76,伊藤美来,,0,0,0,,{\fad(60,85)\blur5}出乎意料的旋律线
 Dialogue: 0,1:53:58.62,1:54:02.76,伊藤美来 - 日语,,0,0,0,,{\fad(60,85)\blur5}予想外のメロディーラインに
 Dialogue: 0,1:54:03.58,1:54:08.93,田所あずさ,,0,0,0,,{\fad(60,85)\blur5}猛然奏响 增添崭新音色
