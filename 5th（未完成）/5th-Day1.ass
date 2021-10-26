@@ -16,9 +16,9 @@ Video File: Z:/5th/COXC1027_t00.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 794
-Active Line: 809
-Video Position: 62104
+Scroll Position: 1418
+Active Line: 1437
+Video Position: 126134
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1539,7 +1539,7 @@ Dialogue: 0,1:09:53.21,1:09:58.29,釘宮理恵 - 日语,,0,0,0,,{\fad(100,150)\b
 Dialogue: 0,1:09:53.21,1:09:58.29,釘宮理恵,,0,0,0,,{\fad(100,150)\blur5}依赖别人而活也是不行的
 Dialogue: 0,1:09:58.33,1:10:08.34,中村繪里子 - 日语,,0,0,0,,{\fad(100,150)\blur5}それは現実（リアル）から逃げているだけ
 Dialogue: 0,1:09:58.33,1:10:08.34,中村繪里子,,0,0,0,,{\fad(100,150)\blur5}那样只是逃避现实而已
-Dialogue: 0,1:10:08.66,1:10:11.75,若林直美 - MC,,0,0,0,,{\blur5}
+Dialogue: 0,1:10:08.66,1:10:11.75,釘宮理恵 - MC,,0,0,0,,{\blur5}
 Dialogue: 0,1:10:12.74,1:10:16.14,中村繪里子 - MC,,0,0,0,,{\blur5}
 Dialogue: 0,1:10:17.13,1:10:19.76,釘宮理恵 - MC,,0,0,0,,{\blur5}
 Dialogue: 0,1:10:21.79,1:10:24.86,中村繪里子 - MC,,0,0,0,,{\blur5}
