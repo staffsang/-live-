@@ -16,9 +16,9 @@ Video File: Z:/5th/COXC1027_t00.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 1442
-Active Line: 1445
-Video Position: 126993
+Scroll Position: 794
+Active Line: 809
+Video Position: 62104
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -910,8 +910,8 @@ Dialogue: 0,0:34:25.88,0:34:28.58,若林直美 - 日语,,0,0,0,,{\fad(60,85)\blu
 Dialogue: 0,0:34:25.88,0:34:28.58,若林直美,,0,0,0,,{\fad(60,85)\blur5}来吧 来吧…那么现在
 Dialogue: 0,0:34:29.17,0:34:31.84,若林直美 - 日语,,0,0,0,,{\fad(60,85)\blur5}さあ さあ…始めよう
 Dialogue: 0,0:34:29.17,0:34:31.84,若林直美,,0,0,0,,{\fad(60,85)\blur5}来吧 来吧…开始了哟
-Dialogue: 0,0:34:32.20,0:34:35.49,若林直美 - 日语,,0,0,0,,{\fad(60,85)\blur5}さあ さあ･･･強気で 行こうよ
-Dialogue: 0,0:34:32.20,0:34:35.49,若林直美,,0,0,0,,{\fad(60,85)\blur5}来吧 来吧･･･那么坚决 出发吧
+Dialogue: 0,0:34:32.20,0:34:35.49,若林直美 - 日语,,0,0,0,,{\fad(60,85)\blur5}さあ さあ…強気で 行こうよ
+Dialogue: 0,0:34:32.20,0:34:35.49,若林直美,,0,0,0,,{\fad(60,85)\blur5}来吧 来吧…那么坚决 出发吧
 Dialogue: 0,0:34:35.81,0:34:37.09,若林直美 - 日语,,0,0,0,,{\fad(60,85)\blur5}行こうよ
 Dialogue: 0,0:34:35.81,0:34:37.09,若林直美,,0,0,0,,{\fad(60,85)\blur5}出发吧
 Dialogue: 0,0:34:37.14,0:34:40.40,若林直美 - 日语,,0,0,0,,{\fad(60,85)\blur5}ねえ いっぱい…
