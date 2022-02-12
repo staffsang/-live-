@@ -15,9 +15,10 @@ Audio File: X:/CG5th/THE IDOLM@STER CINDERELLA GIRLS 5th LIVE TOUR Serendipity P
 Video File: X:/CG5th/THE IDOLM@STER CINDERELLA GIRLS 5th LIVE TOUR Serendipity Parade @MIYAGI Disc 2 Day 1 2017.5.13/THE IDOLM@STER CINDERELLA GIRLS 5th LIVE TOUR Serendipity Parade @MIYAGI Disc 2 Day 1 2017.5.13 Digest.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 12
-Video Position: 18314
+Video Zoom Percent: 0.125000
+Scroll Position: 6
+Active Line: 17
+Video Position: 19220
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,5 +41,15 @@ Dialogue: 0,0:03:08.22,0:03:14.75,偶像大师,,0,0,0,,{\fad(60,150)\blur5}紧�
 Dialogue: 0,0:03:14.92,0:03:18.45,偶像大师 - 日语,,0,0,0,,{\fad(60,150)\blur5}走り出そう
 Dialogue: 0,0:03:14.92,0:03:18.45,偶像大师,,0,0,0,,{\fad(60,150)\blur5}向前迈步吧
 Comment: 0,0:03:24.08,0:03:24.77,偶像大师,,0,0,0,,MC
-Comment: 0,0:10:10.35,0:10:11.06,偶像大师,,0,0,0,,2.にょわにょわーるど☆	
-Dialogue: 0,0:10:11.06,0:10:13.06,偶像大师,,0,0,0,,
+Comment: 0,0:10:10.35,0:10:11.06,偶像大师,,0,0,0,,2.にょわにょわーるど☆
+Dialogue: 0,0:10:11.84,0:10:17.00,偶像大师,,0,0,0,,
+Dialogue: 0,0:10:18.39,0:10:21.29,偶像大师 - MC,,0,0,0,,
+Dialogue: 0,0:10:24.02,0:10:28.74,偶像大师 - MC,,0,0,0,,
+Dialogue: 0,0:10:30.29,0:10:36.24,偶像大师,,0,0,0,,
+Dialogue: 0,0:10:36.42,0:10:41.29,偶像大师,,0,0,0,,
+Comment: 0,0:10:41.29,0:10:42.34,偶像大师,,0,0,0,,
+Dialogue: 0,0:10:42.34,0:10:51.86,偶像大师,,0,0,0,,
+Dialogue: 0,0:10:51.91,0:10:56.42,偶像大师,,0,0,0,,
+Dialogue: 0,0:10:56.70,0:11:01.45,偶像大师,,0,0,0,,
+Dialogue: 0,0:11:01.54,0:11:05.62,偶像大师,,0,0,0,,
+Dialogue: 0,0:11:05.62,0:11:07.62,偶像大师,,0,0,0,,
