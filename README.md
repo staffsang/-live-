@@ -1,11 +1,9 @@
 如果是第一次使用github的同僚，要下载单独的文件可以点进文件后在右侧找到`Raw`按钮，右键`另存为`（或`链接另存为`）即可下载  
 
-需要代投代存、参加协助、报错、请求填坑等要联系我的情况可以通过搜索ID`staff桑`在B站、微博找到我
+需要代投代存、参加协助、报错、想要加入一起填坑等要联系我的情况可以通过搜索ID`staff桑`在B站、微博找到我，也可以用邮箱发送邮件联系
 
 # -live-
-用来更新偶像大师live字幕文件
-## [lofter](https://staffsang.lofter.com/post/1f27d791_11a76b36)（因网站审核不通过已无法更新）
-也是用来更新字幕文件的文章 
+用来更新与分享偶像大师live的字幕文件，欢迎使用与纠错
 
 
 
@@ -22,9 +20,10 @@
 1. 在此发布的字幕文件仅作外挂于BD观看，个人负责部分的字幕经由该场次制作成员商讨同意允许自行压制上传，列表如下：  
 
 |      简称      |                                全称                                   |    备注    |
-|---------------|-----------------------------------------------------------------------|-----------|
+|---------------|-----------------------------------------------------------------------|------------|
 |**4th**        | THE IDOLM@STER 4th ANNIVERSARY PARTY SPECIAL DREAM TOUR’S!! IN TOKYO  |  
-|**5th**        | THE IDOLM@STER 5th ANNIVERSARY THE WORLD IS ALL ONE !!                |  没做完  |
+|**5th**        | THE IDOLM@STER 5th ANNIVERSARY THE WORLD IS ALL ONE !!                |  没做完    |
+|**6th**        | THE IDOLM@STER 6th ANNIVERSARY SMILE SUMMER FESTIV@L!                 |  没做完    |
 |**8th**        | THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!!                  |  
 |**moiw2014**   | THE IDOLM@STER M@STERS OF IDOL WORLD!!2014                            |    
 |**9th**        | THE IDOLM@STER 9th ANNIVERSARY WE ARE M@STERPIECE!!                   |  
