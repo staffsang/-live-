@@ -4,6 +4,7 @@
 
 # -live-
 用来更新与分享偶像大师live的字幕文件，欢迎使用与纠错
+- **[渐变色歌词食用菜谱](https://staffsang.lofter.com/post/1f27d791_11a818d2)**
 
 
 
