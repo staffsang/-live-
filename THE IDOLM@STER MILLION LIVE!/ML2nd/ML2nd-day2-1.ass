@@ -18,9 +18,6 @@ Video File: X:/ML2nd/THE_IDOLM@STER_MILLION_LIVE!_2ndLIVE_ENJOY_H@RMONY!!_LIVE_D
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 2688
-Active Line: 2699
-Video Position: 233105
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,7 +95,7 @@ Style: 高橋未奈美+大関英里,方正准圆_GBK,55,&H00FFFFFF,&H00916A59,&H
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:12.00,偶像大师,,0,0,0,,{\fad(0,1000)\blur5\an1}MC翻译：                   空空空\NMC校对：后母辣酱、空空空\N时轴：                 staff、阡陌\N修正：森野千里、pk君
+Dialogue: 0,0:00:00.00,0:00:12.00,偶像大师,,0,0,0,,{\fad(0,1000)\blur5\an1}MC翻译：空空空\NMC校对：后母辣酱、空空空\N时轴：     staff、阡陌\N修正：     森野千里、pk君
 Comment: 0,0:01:15.34,0:01:15.62,偶像大师,,0,0,0,,01.Thank You! #全体曲也都要更新
 Dialogue: 0,0:01:15.85,0:01:16.83,偶像大师,,0,0,0,,{\fad(60,85)\blur5}Thank you for...
 Dialogue: 0,0:01:16.89,0:01:21.59,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}つくろう 数えきれないステージ
