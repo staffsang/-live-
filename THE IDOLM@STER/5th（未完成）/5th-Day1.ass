@@ -16,6 +16,8 @@ Video File: Z:/5th/COXC1027_t00.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
+Scroll Position: 2073
+Active Line: 2092
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2135,7 +2137,7 @@ Dialogue: 0,1:39:12.07,1:39:15.62,釘宮理恵,,0,0,0,,{\fad(100,200)\blur5}Star
 Dialogue: 0,1:39:15.74,1:39:21.52,釘宮理恵 - 日语,,0,0,0,,{\fad(100,200)\blur5}私の歌声で どこまでも響け
 Dialogue: 0,1:39:15.74,1:39:21.52,釘宮理恵,,0,0,0,,{\fad(100,200)\blur5}就让我的歌声 一路响彻四方
 Dialogue: 0,1:39:21.52,1:39:28.73,釘宮理恵 - 日语,,0,0,0,,{\fad(100,200)\blur5}Feel 感じるまま 好きなメロディーでいい
-Dialogue: 0,1:39:21.52,1:39:28.73,釘宮理恵,,0,0,0,,{\fad(100,200)\blur5}Feel 顺从内心感受 唱出自己心仪的旋律就好
+Dialogue: 0,1:39:21.52,1:39:28.73,釘宮理恵,,0,0,0,,{\fad(100,200)\blur5}Feel 顺从这份感受 唱出自己心仪的旋律就好
 Dialogue: 0,1:39:28.88,1:39:30.80,釘宮理恵 - 日语,,0,0,0,,{\fad(100,200)\blur5}それを心と呼ぼう
 Dialogue: 0,1:39:28.88,1:39:30.80,釘宮理恵,,0,0,0,,{\fad(100,200)\blur5}所谓心声便是如此
 Dialogue: 0,1:39:30.80,1:39:34.06,釘宮理恵 - 日语,,0,0,0,,{\fad(100,200)\blur5}Stay この my love song
@@ -2191,7 +2193,7 @@ Dialogue: 0,1:42:28.39,1:42:31.68,釘宮理恵,,0,0,0,,{\fad(200,200)\blur5}Star
 Dialogue: 0,1:42:31.89,1:42:37.70,釘宮理恵 - 日语,,0,0,0,,{\fad(200,200)\blur5}私の歌声で どこまでも響け
 Dialogue: 0,1:42:31.89,1:42:37.70,釘宮理恵,,0,0,0,,{\fad(200,200)\blur5}就让我的歌声 一路响彻四方
 Dialogue: 0,1:42:37.71,1:42:44.76,釘宮理恵 - 日语,,0,0,0,,{\fad(200,200)\blur5}Feel 感じるまま 好きなメロディーでいい
-Dialogue: 0,1:42:37.71,1:42:44.76,釘宮理恵,,0,0,0,,{\fad(200,200)\blur5}Feel 顺从内心感受 唱出自己心仪的旋律就好
+Dialogue: 0,1:42:37.71,1:42:44.76,釘宮理恵,,0,0,0,,{\fad(200,200)\blur5}Feel 顺从这份感受 唱出自己心仪的旋律就好
 Dialogue: 0,1:42:45.11,1:42:46.96,釘宮理恵 - 日语,,0,0,0,,{\fad(200,200)\blur5}それを心と呼ぼう
 Dialogue: 0,1:42:45.11,1:42:46.96,釘宮理恵,,0,0,0,,{\fad(200,200)\blur5}所谓心声便是如此
 Dialogue: 0,1:42:46.97,1:42:50.16,釘宮理恵 - 日语,,0,0,0,,{\fad(200,200)\blur5}Stay この my love song
