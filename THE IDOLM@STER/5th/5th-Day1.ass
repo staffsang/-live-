@@ -16,8 +16,7 @@ Video File: Z:/5th/COXC1027_t00.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 2073
-Active Line: 2092
+Active Line: 8
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2814,7 +2813,7 @@ Dialogue: 0,2:01:25.22,2:01:29.53,今井麻美 - MC,,0,0,0,,{\blur5}大家燃起
 Dialogue: 0,2:01:30.80,2:01:34.24,沼倉愛美 - MC,,0,0,0,,{\blur5}LIVE还没有结束 和我们一起燃到最后吧！
 Comment: 0,2:01:47.51,2:01:47.86,偶像大师,,0,0,0,,27.花
 Dialogue: 0,2:02:04.37,2:02:09.73,滝田樹里 - 日语,,0,0,0,,{\fad(100,200)\blur5}ひとつ 生まれた種
-Dialogue: 0,2:02:04.37,2:02:09.73,滝田樹里,,0,0,0,,{\fad(100,200)\blur5}有一颗初生的种子\N
+Dialogue: 0,2:02:04.37,2:02:09.73,滝田樹里,,0,0,0,,{\fad(100,200)\blur5}有一颗初生的种子
 Dialogue: 0,2:02:10.53,2:02:16.40,滝田樹里 - 日语,,0,0,0,,{\fad(100,200)\blur5}弱く 小さいけれど
 Dialogue: 0,2:02:10.53,2:02:16.40,滝田樹里,,0,0,0,,{\fad(100,200)\blur5}尽管如此纤弱瘦小
 Dialogue: 0,2:02:16.51,2:02:22.37,滝田樹里 - 日语,,0,0,0,,{\fad(100,200)\blur5}深く 根を歩ませ
