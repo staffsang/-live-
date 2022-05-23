@@ -23,7 +23,7 @@
 |      简称      |                                全称                                   |    备注    |
 |---------------|-----------------------------------------------------------------------|------------|
 |**4th**        | THE IDOLM@STER 4th ANNIVERSARY PARTY SPECIAL DREAM TOUR’S!! IN TOKYO  |  
-|**5th**        | THE IDOLM@STER 5th ANNIVERSARY THE WORLD IS ALL ONE !!                |  没做完    |
+|**5th**        | THE IDOLM@STER 5th ANNIVERSARY THE WORLD IS ALL ONE !!                |  
 |**6th**        | THE IDOLM@STER 6th ANNIVERSARY SMILE SUMMER FESTIV@L!                 |  没做完    |
 |**8th**        | THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!!                  |  
 |**moiw2014**   | THE IDOLM@STER M@STERS OF IDOL WORLD!!2014                            |    
