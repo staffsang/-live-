@@ -15,10 +15,10 @@ Audio File: Z:/[TD-RAWS] THE IDOLM@STER 9th ANNIVERSARY WE ARE M@STERPIECE!! [BD
 Video File: Z:/[TD-RAWS] THE IDOLM@STER 9th ANNIVERSARY WE ARE M@STERPIECE!! [BDRip 1080p HEVC-10bit FLAC AC3]/[TD-RAWS] THE IDOLM@STER 9th ANNIVERSARY WE ARE M@STERPIECE!! - Day2 Disc2 [BDRip 1080p HEVC-10bit FLAC AC3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 2222
-Active Line: 2233
-Video Position: 246750
+Video Zoom Percent: 0.625000
+Scroll Position: 653
+Active Line: 675
+Video Position: 46422
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -694,12 +694,14 @@ Dialogue: 0,0:25:32.79,0:25:36.30,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blu
 Dialogue: 0,0:25:32.79,0:25:36.30,沼倉愛美,,0,0,0,,{\fad(60,85)\blur5}当这歌声奏起之时
 Dialogue: 0,0:25:36.36,0:25:39.68,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blur5}輝きは永遠に
 Dialogue: 0,0:25:36.36,0:25:39.68,沼倉愛美,,0,0,0,,{\fad(60,85)\blur5}光辉将会化作永恒
-Dialogue: 0,0:25:39.72,0:25:43.23,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blur5\an1}ずっとずっと I just spit fire
-Dialogue: 0,0:25:39.72,0:25:43.23,沼倉愛美,,0,0,0,,{\fad(60,85)\blur5\an1}一直一直以来 我只是在宣泄着热情
-Dialogue: 0,0:25:42.70,0:25:45.80,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blur5}もっともっと I believe in myself
-Dialogue: 0,0:25:42.70,0:25:45.80,沼倉愛美,,0,0,0,,{\fad(60,85)\blur5}更加更加坚定 我要相信自己
-Dialogue: 0,0:25:46.05,0:25:48.20,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blur5}譲れない
-Dialogue: 0,0:25:46.05,0:25:48.20,沼倉愛美,,0,0,0,,{\fad(60,85)\blur5}绝不退让
+Dialogue: 0,0:25:39.72,0:25:41.04,沼倉愛美 - 日语,,0,0,0,,{\3c&H0000FF&}{\fad(60,85)\blur5\an1}ずっとずっと
+Dialogue: 0,0:25:39.72,0:25:41.04,沼倉愛美,,0,0,0,,{\3c&H0000FF&}{\fad(60,85)\blur5\an1}一直一直以来
+Dialogue: 0,0:25:41.04,0:25:43.12,沼倉愛美 - 日语,,0,0,0,,{\3c&H0000FF&}{\fad(60,85)\blur5\an1}I just spit fire
+Dialogue: 0,0:25:41.04,0:25:43.12,沼倉愛美,,0,0,0,,{\3c&H0000FF&}{\fad(60,85)\blur5\an1}我只是在宣泄着热情
+Dialogue: 0,0:25:42.70,0:25:45.89,沼倉愛美 - 日语,,0,0,0,,{\3c&H0000FF&}{\fad(60,85)\blur5}もっともっと I believe in myself
+Dialogue: 0,0:25:42.70,0:25:45.89,沼倉愛美,,0,0,0,,{\3c&H0000FF&}{\fad(60,85)\blur5}更加更加坚定 我要相信自己
+Dialogue: 0,0:25:46.05,0:25:48.08,沼倉愛美 - 日语,,0,0,0,,{\3c&H0000FF&}{\fad(60,85)\blur5}譲れない
+Dialogue: 0,0:25:46.05,0:25:48.08,沼倉愛美,,0,0,0,,{\3c&H0000FF&}{\fad(60,85)\blur5}绝不退让
 Comment: 0,0:26:44.59,0:26:44.59,沼倉愛美 - MC,,0,0,0,,23. しあわせのレシピ
 Dialogue: 0,0:26:44.60,0:26:50.60,沼倉愛美,,0,0,0,,{\fad(200,200)\blur5\an1}【23】\Nしあわせのレシピ\N{\fs40}作词：yura\N作曲：T-Tipsy
 Dialogue: 0,0:26:59.29,0:27:06.14,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blur5}料理つくろう たいせつな人の為に
@@ -744,8 +746,8 @@ Dialogue: 0,0:28:11.30,0:28:16.60,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blu
 Dialogue: 0,0:28:11.30,0:28:16.60,沼倉愛美,,0,0,0,,{\fad(60,85)\blur5}幸福的食谱
 Dialogue: 0,0:28:29.60,0:28:36.24,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blur5}野菜とか 好き嫌いはないように
 Dialogue: 0,0:28:29.60,0:28:36.24,沼倉愛美,,0,0,0,,{\fad(60,85)\blur5}蔬菜什么的 为了让你好好地不挑食
-Dialogue: 0,0:28:36.83,0:28:40.07,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blur5}ひとつずつ♪ すこしずつ♪
-Dialogue: 0,0:28:36.83,0:28:40.07,沼倉愛美,,0,0,0,,{\fad(60,85)\blur5}一个一个♪一点一点
+Dialogue: 0,0:28:36.83,0:28:40.07,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blur5}ひとつずつ{\fn微软雅黑\fs53}♪{\fn\fs} すこしずつ{\fn微软雅黑\fs53}♪{\fn\fs}
+Dialogue: 0,0:28:36.83,0:28:40.07,沼倉愛美,,0,0,0,,{\fad(60,85)\blur5}一个一个{\fn微软雅黑\fs53}♪{\fn\fs}一点一点
 Dialogue: 0,0:28:40.21,0:28:43.70,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blur5}動物のマークにして
 Dialogue: 0,0:28:40.21,0:28:43.70,沼倉愛美,,0,0,0,,{\fad(60,85)\blur5}切成动物的形状
 Dialogue: 0,0:28:43.99,0:28:51.09,沼倉愛美 - 日语,,0,0,0,,{\fad(60,85)\blur5}ほっかほかに ホワイトソースと煮込むんでく

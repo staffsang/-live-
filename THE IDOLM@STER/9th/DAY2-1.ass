@@ -16,8 +16,8 @@ Video File: Z:/[TD-RAWS] THE IDOLM@STER 9th ANNIVERSARY WE ARE M@STERPIECE!! [BD
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1113
-Active Line: 1130
+Scroll Position: 30
+Active Line: 52
 Video Position: 141449
 
 [V4+ Styles]
@@ -85,8 +85,8 @@ Dialogue: 0,0:01:41.66,0:01:45.12,偶像大师,,0,0,0,,{\fad(60,85)\blur5}今天
 Dialogue: 0,0:01:45.57,0:01:47.19,偶像大师,,0,0,0,,{\fad(60,85)\blur5}STAGE
 Dialogue: 0,0:01:47.19,0:01:49.35,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}CHECK!!マイク·メイク·衣装
 Dialogue: 0,0:01:47.19,0:01:49.35,偶像大师,,0,0,0,,{\fad(60,85)\blur5}检查好!! 麦克风·化妆·衣着
-Dialogue: 0,0:01:49.35,0:01:52.65,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}IT'S SHOW TIME♪ TRY CHALLENGE!!
-Dialogue: 0,0:01:49.35,0:01:52.65,偶像大师,,0,0,0,,{\fad(60,85)\blur5}现在是我们的表演时间♪ 勇敢挑战!!
+Dialogue: 0,0:01:49.35,0:01:52.65,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}IT'S SHOW TIME{\fn微软雅黑\fs53}♪{\fn\fs} TRY CHALLENGE!!
+Dialogue: 0,0:01:49.35,0:01:52.65,偶像大师,,0,0,0,,{\fad(60,85)\blur5}现在是我们的表演时间{\fn微软雅黑\fs53}♪{\fn\fs} 勇敢挑战!!
 Dialogue: 0,0:01:52.65,0:01:57.32,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}STARDOM光り光るSPOTLIGHT
 Dialogue: 0,0:01:52.65,0:01:57.32,偶像大师,,0,0,0,,{\fad(60,85)\blur5}不停闪耀光茫的聚光灯
 Dialogue: 0,0:01:57.44,0:02:02.96,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}眩しい輝くまっすぐDEBUT
@@ -118,7 +118,7 @@ Dialogue: 0,0:02:50.58,0:02:54.13,偶像大师,,0,0,0,,{\fad(60,85)\blur5}以自
 Dialogue: 0,0:02:54.56,0:02:55.91,偶像大师,,0,0,0,,{\fad(60,85)\blur5}LESSON
 Dialogue: 0,0:02:56.27,0:02:58.67,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}辛くキツくてもPEACE♥
 Dialogue: 0,0:02:56.27,0:02:58.67,偶像大师,,0,0,0,,{\fad(60,85)\blur5}再多辛苦也要微笑着说PEACE♥
-Dialogue: 0,0:02:58.67,0:03:01.63,偶像大师,,0,0,0,,{\fad(60,85)\blur5}HURRAH♪ HURRAH♪ NEVER GIVE UP!!
+Dialogue: 0,0:02:58.67,0:03:01.63,偶像大师,,0,0,0,,{\fad(60,85)\blur5}HURRAH{\fn微软雅黑\fs53}♪{\fn\fs} HURRAH{\fn微软雅黑\fs53}♪{\fn\fs} NEVER GIVE UP!!
 Dialogue: 0,0:03:01.74,0:03:06.36,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}FREEDOM描き描くSUPER STAR
 Dialogue: 0,0:03:01.74,0:03:06.36,偶像大师,,0,0,0,,{\fad(60,85)\blur5}自由自在地描绘着超级巨星
 Dialogue: 0,0:03:06.40,0:03:11.90,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}険しい壁飛び越えてON AIR
@@ -205,7 +205,7 @@ Dialogue: 0,0:07:16.49,0:07:19.24,下田麻美 - MC,,0,0,0,,{\blur5}加油 加�
 Dialogue: 0,0:07:21.82,0:07:24.68,下田麻美 - MC,,0,0,0,,{\blur5}哇 谢谢！
 Dialogue: 0,0:07:24.68,0:07:26.01,下田麻美 - MC,,0,0,0,,{\blur5}然后是
 Dialogue: 0,0:07:26.37,0:07:30.50,下田麻美 - MC,,0,0,0,,{\blur5}电影院中的 哥哥姐姐——
-Dialogue: 0,0:07:33.66,0:07:37.24,下田麻美 - MC,,0,0,0,,{\blur5}谢谢大家  嗯～哼～哼♪
+Dialogue: 0,0:07:33.66,0:07:37.24,下田麻美 - MC,,0,0,0,,{\blur5}谢谢大家  嗯～哼～哼{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,0:07:37.24,0:07:42.54,下田麻美 - MC,,0,0,0,,{\blur5}今天也要全力燃烧 多关照哦！
 Dialogue: 0,0:07:45.44,0:07:47.85,下田麻美 - MC,,0,0,0,,{\blur5}好的 我是饰演双海亚美·真美的下田麻美
 Dialogue: 0,0:07:47.89,0:07:51.78,下田麻美 - MC,,0,0,0,,{\blur5}今天是九周年巡演最终日！
