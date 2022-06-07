@@ -4,9 +4,12 @@
 
 首先下载播放器 **[PotPlayer](https://pan.baidu.com/s/1gf1XQLl)**
 
-然后把**对应（32位/64位）版本**的 **[特效插件](https://github.com/computerfan/VSFilterMod/actions/runs/2402841300)** 放进**PotPlayer的安装目录**里
+然后把**对应（32位/64位）版本**的 **[特效插件](https://github.com/hoshinohikari/VSFilterMod/releases/tag/r5.2)** 放进**PotPlayer的安装目录**里
 
 之后再将一个 **[小东西](https://pan.baidu.com/s/1dFhdmQ9)** 放到**PotPlayer的安装目录**里运行（记得用管理员运行）
+
+#### PS：高级用法
+如果不想下载脚本，可以自己用管理员的cmd输入```regsvr32.exe VSFilterMod.dll```
 
 完成后打开**PotPlayer-选项-滤镜-全局滤镜-添加外部滤镜**（如下图）
 
