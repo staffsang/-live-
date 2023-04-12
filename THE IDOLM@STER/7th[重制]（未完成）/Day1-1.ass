@@ -15,14 +15,14 @@ Update Details: 2022-12-20（初）
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: N:/B站视频/偶像大师7周年纪念演唱会 THE IDOLM@STER 7th ANNIVERSARY 765PRO ALLSTARS Minna to Issho!!/1-Day1 Part1-1080P 高码率-AVC.mp4
-Video File: N:/B站视频/偶像大师7周年纪念演唱会 THE IDOLM@STER 7th ANNIVERSARY 765PRO ALLSTARS Minna to Issho!!/Day1-1/1-Day1 Part1-1080P 高码率-AVC_delogo_onlyVideo.mp4
+Audio File: Z:/7th/Day1/COXC1051_t00.mkv
+Video File: Z:/7th/Day1/COXC1051_t00.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 1621
-Active Line: 1639
-Video Position: 154901
+Video Zoom Percent: 0.625000
+Scroll Position: 6
+Active Line: 12
+Video Position: 2951
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -75,8 +75,8 @@ Style: 龙宫小町 - 日语,A-OTF Jun Pro 501,50,&H00FFFFFF,&H00916A59,&H00B093
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:27.31,0:00:28.46,中村繪里子 - MC,,0,0,0,, {\blur5}大家 要上了
-Dialogue: 0,0:00:28.98,0:00:31.61,中村繪里子 - MC,,0,0,0,, {\blur5}IDOLM@STER Fight ！
+Dialogue: 0,0:00:27.31,0:00:28.46,中村繪里子 - MC,,0,0,0,,{\blur5}大家 要上了
+Dialogue: 0,0:00:28.98,0:00:31.61,中村繪里子 - MC,,0,0,0,,{\blur5}IDOLM@STER Fight ！
 Comment: 0,0:01:28.31,0:01:28.31,偶像大师,,0,0,0,,01.READY!!
 Dialogue: 0,0:01:28.70,0:01:29.89,偶像大师,,0,0,0,,{\fad(60,85)\blur5}ARE YOU READY!!
 Dialogue: 0,0:01:29.89,0:01:31.35,偶像大师,,0,0,0,,{\fad(60,85)\blur5}I'M LADY!!
@@ -86,8 +86,10 @@ Dialogue: 0,0:01:33.32,0:01:36.26,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blu
 Dialogue: 0,0:01:33.32,0:01:36.26,偶像大师,,0,0,0,,{\fad(60,85)\blur5}只要勇敢去做就一定
 Dialogue: 0,0:01:36.33,0:01:38.37,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}絶対
 Dialogue: 0,0:01:36.33,0:01:38.37,偶像大师,,0,0,0,,{\fad(60,85)\blur5}绝对能做到
-Dialogue: 0,0:01:38.46,0:01:42.26,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}私NO.1
-Dialogue: 0,0:01:38.46,0:01:42.26,偶像大师,,0,0,0,,{\fad(60,85)\blur5}我就是NO.1
+Dialogue: 0,0:01:38.46,0:01:42.17,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}私NO.1
+Dialogue: 0,0:01:38.46,0:01:42.17,偶像大师,,0,0,0,,{\fad(60,85)\blur5}我就是NO.1
+Dialogue: 0,0:01:43.62,0:01:47.90,中村繪里子 - MC,,0,0,0,,{\blur5}制作人 是横滨ARENA哟！
+Dialogue: 0,0:01:47.99,0:01:50.80,中村繪里子 - MC,,0,0,0,,{\blur5}横滨ARENA！
 Dialogue: 0,0:01:50.93,0:01:54.77,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}START始まる今日のSTAGE
 Dialogue: 0,0:01:50.93,0:01:54.77,偶像大师,,0,0,0,,{\fad(60,85)\blur5}今天的舞台要开始了
 Dialogue: 0,0:01:54.84,0:01:56.24,偶像大师,,0,0,0,,{\fad(60,85)\blur5}STAGE
@@ -2103,7 +2105,7 @@ Dialogue: 0,1:43:11.53,1:43:15.90,偶像大师,,0,0,0,,{\3vc(&H3999F3&,&HE199FD&
 Comment: 0,1:43:15.97,1:43:15.97,偶像大师,,0,0,0,,22. フラワーガール
 Dialogue: 0,1:43:16.43,1:43:23.64,偶像大师 - 日语,,0,0,0,,{\an3}{\fad(100,200)\blur5}{\3vc(&HB9AD01&,&H6A12A6&,&HB9AD01&,&H6A12A6&)}夢の中で また包んで
 Dialogue: 0,1:43:16.43,1:43:23.64,偶像大师,,0,0,0,,{\an3}{\3vc(&HB9AD01&,&H6A12A6&,&HB9AD01&,&H6A12A6&)}{\fad(100,200)\blur5}再度沉浸于梦中
-Dialogue: 0,1:43:28.51,1:43:32.26,原由実 - MC,,0,0,0,,{\blur5}接下来这首歌由我们演唱 歌曲名是 
+Dialogue: 0,1:43:28.51,1:43:32.26,原由実 - MC,,0,0,0,,{\blur5}接下来这首歌由我们演唱 歌曲名是
 Dialogue: 0,1:43:32.50,1:43:33.65,原由実 - MC,,0,0,0,,{\blur5}「フラワーガール」
 Dialogue: 0,1:43:35.02,1:43:38.60,偶像大师 - 日语,,0,0,0,,{\3vc(&HB9AD01&,&H6A12A6&,&HB9AD01&,&H6A12A6&)}{\fad(100,200)\blur5}あなたが来た！待ちぶせするの
 Dialogue: 0,1:43:35.02,1:43:38.60,偶像大师,,0,0,0,,{\3vc(&HB9AD01&,&H6A12A6&,&HB9AD01&,&H6A12A6&)}{\fad(100,200)\blur5}远远地见你走来！ 我就埋伏在一旁
