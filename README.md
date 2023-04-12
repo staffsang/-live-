@@ -24,7 +24,7 @@
 |---------------|-----------------------------------------------------------------------|------------|
 |**4th**        | THE IDOLM@STER 4th ANNIVERSARY PARTY SPECIAL DREAM TOUR’S!! IN TOKYO  |  
 |**5th**        | THE IDOLM@STER 5th ANNIVERSARY THE WORLD IS ALL ONE !!                |  
-|**6th**        | THE IDOLM@STER 6th ANNIVERSARY SMILE SUMMER FESTIV@L!                 |  没做完    |
+|**6th**        | THE IDOLM@STER 6th ANNIVERSARY SMILE SUMMER FESTIV@L!                 |  仅歌词    |
 |**8th**        | THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!!                  |  
 |**moiw2014**   | THE IDOLM@STER M@STERS OF IDOL WORLD!!2014                            |    
 |**9th**        | THE IDOLM@STER 9th ANNIVERSARY WE ARE M@STERPIECE!!                   |  
