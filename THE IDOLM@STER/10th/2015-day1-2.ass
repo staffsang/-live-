@@ -16,8 +16,8 @@ Video File: D:/imas/as/MOIW2015/THE IDOLM@STER M@STERS OF IDOL WORLD!! 2015 - Da
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 2142
-Active Line: 2159
+Scroll Position: 1543
+Active Line: 1554
 Video Position: 141638
 
 [V4+ Styles]
@@ -1656,8 +1656,8 @@ Dialogue: 0,1:26:48.65,1:26:51.84,先生+淑女 - 日语,,0,0,0,,{\fad(60,85)\bl
 Dialogue: 0,1:26:48.65,1:26:51.84,先生+淑女,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HD24327&,&H302BE2&,&HD24327&,&H302BE2&)}太过于正直了 Oh no
 Dialogue: 0,1:26:52.10,1:26:55.15,先生+淑女 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HD24327&,&H302BE2&,&HD24327&,&H302BE2&)}正解だらけなの
 Dialogue: 0,1:26:52.10,1:26:55.15,先生+淑女,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HD24327&,&H302BE2&,&HD24327&,&H302BE2&)}可做法的确是正解
-Dialogue: 0,1:26:55.50,1:26:58.68,先生+淑女 - 日语,,0,0,0,,{\fad(60,0)\blur5}{\3vc(&HD24327&,&H302BE2&,&HD24327&,&H302BE2&)}迷うこころ抜けて
-Dialogue: 0,1:26:55.50,1:26:58.68,先生+淑女,,0,0,0,,{\fad(60,0)\blur5}{\3vc(&HD24327&,&H302BE2&,&HD24327&,&H302BE2&)}超越迷茫的内心
+Dialogue: 0,1:26:55.50,1:26:58.68,先生+淑女 - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HD24327&,&H302BE2&,&HD24327&,&H302BE2&)}迷うこころ抜けて
+Dialogue: 0,1:26:55.50,1:26:58.68,先生+淑女,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HD24327&,&H302BE2&,&HD24327&,&H302BE2&)}超越迷茫的内心
 Dialogue: 0,1:26:58.95,1:26:59.86,先生+淑女 - 日语,,0,0,0,,{\fad(60,0)\blur5}{\3vc(&HD24327&,&H302BE2&,&HD24327&,&H302BE2&)}いっしょにDream comes true
 Dialogue: 0,1:26:58.95,1:26:59.86,先生+淑女,,0,0,0,,{\fad(60,0)\blur5}{\3vc(&HD24327&,&H302BE2&,&HD24327&,&H302BE2&)}一起让Dream comes ture
 Dialogue: 0,1:26:59.86,1:27:01.34,今井麻美 - 日语,,0,0,0,,{\fad(0,85)\blur5}{\3vc(&HD24327&,&H302BE2&,&HD24327&,&H302BE2&)}いっしょに{\3c&HD24327&}Dream comes true
