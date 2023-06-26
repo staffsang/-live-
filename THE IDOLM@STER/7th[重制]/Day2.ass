@@ -20,9 +20,9 @@ Video File: Z:/7th/Day2/COXC1052_t00.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 3945
-Active Line: 3968
-Video Position: 373257
+Scroll Position: 293
+Active Line: 294
+Video Position: 24118
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -375,7 +375,7 @@ Dialogue: 0,0:13:08.19,0:13:11.51,沼倉愛美 - MC,,0,0,0,,{\blur5}谢谢大家
 Dialogue: 0,0:13:11.60,0:13:13.38,沼倉愛美 - MC,,0,0,0,,{\blur5}我是饰演我那霸响的沼仓爱美
 Dialogue: 0,0:13:13.38,0:13:16.08,沼倉愛美 - MC,,0,0,0,,{\blur5}请大家多多关照
 Dialogue: 0,0:13:22.68,0:13:24.43,若林直美 - MC,,0,0,0,,{\blur5}各位制作人
-Dialogue: 0,0:13:24.73,0:13:29.27,若林直美 - MC,,0,0,0,,{\blur5}还有迷你偶像的各位粉丝们
+Dialogue: 0,0:13:24.73,0:13:29.27,若林直美 - MC,,0,0,0,,{\blur5}还有被迷你青椒拉来的各位粉丝们
 Dialogue: 0,0:13:31.57,0:13:34.15,若林直美 - MC,,0,0,0,,{\blur5}会好好努力的 要一直看到最后哦
 Dialogue: 0,0:13:34.99,0:13:37.26,若林直美 - MC,,0,0,0,,{\blur5}我是饰演秋月律子的若林直美
 Dialogue: 0,0:13:44.42,0:13:49.55,仁後真耶子 - MC,,0,0,0,,{\blur5}嗯嗯~ 大家 晚上好——
@@ -3602,7 +3602,7 @@ Dialogue: 0,3:03:18.04,3:03:22.98,平田宏美 - MC,,0,0,0,,{\blur5}真的好久
 Dialogue: 0,3:03:23.59,3:03:27.13,平田宏美 - MC,,0,0,0,,{\blur5}各位制作人 今天玩得开心吗？
 Dialogue: 0,3:03:29.69,3:03:30.60,平田宏美 - MC,,0,0,0,,{\blur5}谢谢大家
 Dialogue: 0,3:03:30.70,3:03:35.39,平田宏美 - MC,,0,0,0,,{\blur5}偶像大师已经7周年了 真是时间相当长的作品了
-Dialogue: 0,3:03:35.55,3:03:37.74,平田宏美 - MC,,0,0,0,,{\blur5}想必在大家的支持下肯定能走得更远 
+Dialogue: 0,3:03:35.55,3:03:37.74,平田宏美 - MC,,0,0,0,,{\blur5}想必在大家的支持下肯定能走得更远
 Dialogue: 0,3:03:37.84,3:03:41.27,平田宏美 - MC,,0,0,0,,{\blur5}今后也请多多支持偶像大师 非常感谢大家
 Dialogue: 0,3:03:47.12,3:03:55.57,原由実 - MC,,0,0,0,,{\blur5}今天和昨天 包括全国转播现场如此众多的制作人
 Dialogue: 0,3:03:55.70,3:03:58.58,原由実 - MC,,0,0,0,,{\blur5}能如此热情真的非常开心
