@@ -204,7 +204,7 @@ Dialogue: 0,0:09:57.11,0:10:01.04,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blu
 Dialogue: 0,0:09:57.11,0:10:01.04,偶像大师,,0,0,0,,{\fad(60,85)\blur5}今天的舞台要开始了
 Dialogue: 0,0:10:02.72,0:10:04.83,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}CHECK!!マイク・メイク・衣装
 Dialogue: 0,0:10:02.72,0:10:04.83,偶像大师,,0,0,0,,{\fad(60,85)\blur5}检查好!! 麦克风·化妆·衣着
-Dialogue: 0,0:10:04.83,0:10:06.36,偶像大师,,0,0,0,,{\fad(60,85)\blur5}IT'S SHOW TIME♪
+Dialogue: 0,0:10:04.83,0:10:06.36,偶像大师,,0,0,0,,{\fad(60,85)\blur5}IT'S SHOW TIME{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,0:10:06.52,0:10:08.17,偶像大师,,0,0,0,,{\fad(60,85)\blur5}TRY CHALLENGE!!
 Dialogue: 0,0:10:08.38,0:10:12.87,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}STARDOM光り光るSPOTLIGHT
 Dialogue: 0,0:10:08.38,0:10:12.87,偶像大师,,0,0,0,,{\fad(60,85)\blur5}不停闪耀光茫的聚光灯
@@ -239,7 +239,7 @@ Dialogue: 0,0:11:06.14,0:11:09.89,偶像大师,,0,0,0,,{\fad(60,85)\blur5}以自
 Dialogue: 0,0:11:10.08,0:11:11.61,偶像大师,,0,0,0,,{\fad(60,85)\blur5}LESSON
 Dialogue: 0,0:11:11.74,0:11:14.11,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}辛くキツくてもPEACE♥
 Dialogue: 0,0:11:11.74,0:11:14.11,偶像大师,,0,0,0,,{\fad(60,85)\blur5}再多辛苦也要微笑着说PEACE♥
-Dialogue: 0,0:11:14.11,0:11:15.56,偶像大师,,0,0,0,,{\fad(60,85)\blur5}HURRAH♪ HURRAH♪
+Dialogue: 0,0:11:14.11,0:11:15.56,偶像大师,,0,0,0,,{\fad(60,85)\blur5}HURRAH{\fn微软雅黑\fs53}♪{\fn\fs} HURRAH{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,0:11:15.56,0:11:17.14,偶像大师,,0,0,0,,{\fad(60,85)\blur5}NEVER GIVE UP!!
 Dialogue: 0,0:11:17.24,0:11:21.92,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}FREEDOM描き描くSUPER STAR
 Dialogue: 0,0:11:17.24,0:11:21.92,偶像大师,,0,0,0,,{\fad(60,85)\blur5}自由自在地描绘着超级巨星
@@ -687,12 +687,12 @@ Dialogue: 0,0:39:39.74,0:39:42.00,高橋未奈美 - 日语,,0,0,0,,{\fad(60,75)\
 Dialogue: 0,0:39:39.74,0:39:42.00,高橋未奈美,,0,0,0,,{\fad(60,75)\blur5}恋爱到底是什么东西？
 Dialogue: 0,0:39:42.00,0:39:44.37,高橋未奈美 - 日语,,0,0,0,,{\fad(60,75)\blur5}妄想 空中に咲いた
 Dialogue: 0,0:39:42.00,0:39:44.37,高橋未奈美,,0,0,0,,{\fad(60,75)\blur5}妄想 在空中绽放
-Dialogue: 0,0:39:44.58,0:39:46.21,Sweet Sweet Soul - 日语,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}へろー☆へろー♪へろー
-Dialogue: 0,0:39:44.58,0:39:46.21,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}Hello, hello♪ hello
+Dialogue: 0,0:39:44.58,0:39:46.21,Sweet Sweet Soul - 日语,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}へろー☆へろー{\fn微软雅黑\fs53}♪{\fn\fs}へろー
+Dialogue: 0,0:39:44.58,0:39:46.21,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}Hello, hello{\fn微软雅黑\fs53}♪{\fn\fs} hello
 Dialogue: 0,0:39:45.97,0:39:47.17,渡部恵子 - 日语,,0,0,0,,{\fad(60,75)\blur5}きっと甘くて
 Dialogue: 0,0:39:45.97,0:39:47.17,渡部恵子,,0,0,0,,{\fad(60,75)\blur5}一定很甜美吧
-Dialogue: 0,0:39:46.89,0:39:48.45,Sweet Sweet Soul - 日语,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}へろー へろー♪へろー☆
-Dialogue: 0,0:39:46.89,0:39:48.45,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}Hello, hello♪ hello☆
+Dialogue: 0,0:39:46.89,0:39:48.45,Sweet Sweet Soul - 日语,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}へろー へろー{\fn微软雅黑\fs53}♪{\fn\fs}へろー☆
+Dialogue: 0,0:39:46.89,0:39:48.45,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}Hello, hello{\fn微软雅黑\fs53}♪{\fn\fs} hello☆
 Dialogue: 0,0:39:48.20,0:39:49.09,渡部恵子 - 日语,,0,0,0,,{\fad(60,75)\blur5}ほろにがい
 Dialogue: 0,0:39:48.20,0:39:49.09,渡部恵子,,0,0,0,,{\fad(60,75)\blur5}苦中带甜
 Dialogue: 0,0:39:49.10,0:39:51.35,稲川英里 - 日语,,0,0,0,,{\fad(60,75)\blur5}大人ってずるいよね
@@ -732,12 +732,12 @@ Dialogue: 0,0:40:36.88,0:40:39.19,稲川英里 - 日语,,0,0,0,,{\fad(60,75)\blu
 Dialogue: 0,0:40:36.88,0:40:39.19,稲川英里,,0,0,0,,{\fad(60,75)\blur5}渐渐高涨的tension
 Dialogue: 0,0:40:39.19,0:40:41.88,稲川英里 - 日语,,0,0,0,,{\fad(60,75)\blur5}そろそろ出しちゃうホンキ
 Dialogue: 0,0:40:39.19,0:40:41.88,稲川英里,,0,0,0,,{\fad(60,75)\blur5}差不多该拿出真本事了
-Dialogue: 0,0:40:41.89,0:40:43.43,Sweet Sweet Soul - 日语,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}わさー☆わさー♪わさー
-Dialogue: 0,0:40:41.89,0:40:43.43,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}What's up☆ what's up♪ what's up
+Dialogue: 0,0:40:41.89,0:40:43.43,Sweet Sweet Soul - 日语,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}わさー☆わさー{\fn微软雅黑\fs53}♪{\fn\fs}わさー
+Dialogue: 0,0:40:41.89,0:40:43.43,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}What's up☆ what's up{\fn微软雅黑\fs53}♪{\fn\fs} what's up
 Dialogue: 0,0:40:42.98,0:40:44.21,田村奈央 - 日语,,0,0,0,,{\fad(60,75)\blur5}調子はどうだい？
 Dialogue: 0,0:40:42.98,0:40:44.21,田村奈央,,0,0,0,,{\fad(60,75)\blur5}状态如何呢？
-Dialogue: 0,0:40:44.05,0:40:45.58,Sweet Sweet Soul - 日语,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}わさー わさー♪わさー☆
-Dialogue: 0,0:40:44.05,0:40:45.58,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}What's up, what's up♪ what's up☆
+Dialogue: 0,0:40:44.05,0:40:45.58,Sweet Sweet Soul - 日语,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}わさー わさー{\fn微软雅黑\fs53}♪{\fn\fs}わさー☆
+Dialogue: 0,0:40:44.05,0:40:45.58,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}{\an1}What's up, what's up{\fn微软雅黑\fs53}♪{\fn\fs} what's up☆
 Dialogue: 0,0:40:45.29,0:40:46.06,田村奈央 - 日语,,0,0,0,,{\fad(60,75)\blur5}それなり！
 Dialogue: 0,0:40:45.29,0:40:46.06,田村奈央,,0,0,0,,{\fad(60,75)\blur5}刚刚好！
 Dialogue: 0,0:40:46.30,0:40:48.47,渡部恵子 - 日语,,0,0,0,,{\fad(60,75)\blur5}ファッションも お菓子でも
@@ -771,7 +771,7 @@ Dialogue: 0,0:41:24.51,0:41:27.48,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B
 Dialogue: 0,0:41:27.48,0:41:29.46,Sweet Sweet Soul - 日语,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}かくね 騒ぎましょ
 Dialogue: 0,0:41:27.48,0:41:29.46,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}大声地 骚闹起来吧
 Dialogue: 0,0:41:29.46,0:41:34.00,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}All day All night, Don't stop music
-Dialogue: 0,0:41:32.05,0:41:36.24,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5\an3}Hey DJ♪
+Dialogue: 0,0:41:32.05,0:41:36.24,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5\an3}Hey DJ{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,0:41:53.71,0:41:56.94,稲川英里 - MC,,0,0,0,,{\blur5}HEY-YO 终于要开始了环们的show
 Dialogue: 0,0:41:56.99,0:41:59.25,稲川英里 - MC,,0,0,0,,{\blur5}从此开始颠覆你印象的show
 Dialogue: 0,0:41:59.52,0:42:01.44,稲川英里 - MC,,0,0,0,,{\blur5}你即将看到超棒超强超快的我们
@@ -814,7 +814,7 @@ Dialogue: 0,0:43:07.43,0:43:09.83,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B
 Dialogue: 0,0:43:09.83,0:43:12.41,Sweet Sweet Soul - 日语,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}いますぐに 踊りだそう
 Dialogue: 0,0:43:09.83,0:43:12.41,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}现在立刻就跳起舞吧
 Dialogue: 0,0:43:12.41,0:43:15.94,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5}All day All night, Don't stop music
-Dialogue: 0,0:43:14.94,0:43:19.12,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5\an3}Hey DJ♪
+Dialogue: 0,0:43:14.94,0:43:19.12,Sweet Sweet Soul,,0,0,0,,{\3vc(&H2C34D1&,&H64B8EF&,&H2E76EE&,&HCBBEF1&)}{\fad(60,75)\blur5\an3}Hey DJ{\fn微软雅黑\fs53}♪{\fn\fs}
 Comment: 0,0:43:48.86,0:43:50.20,小岩井ことり+諏訪彩花,,0,0,0,,4.リフレインキス
 Dialogue: 0,0:44:08.72,0:44:14.01,小岩井ことり - 日语,,0,0,0,,{\fad(60,85)\blur5}不器用に熱く悩んでる指先
 Dialogue: 0,0:44:08.72,0:44:14.01,小岩井ことり,,0,0,0,,{\fad(60,85)\blur5}因迟钝的指尖而发热的烦恼
@@ -1051,8 +1051,8 @@ Dialogue: 0,0:52:19.29,0:52:24.49,釘宮理恵+渡部恵子 - 日语,,0,0,0,,{\3
 Dialogue: 0,0:52:19.29,0:52:24.49,釘宮理恵+渡部恵子,,0,0,0,,{\3vc(&HE199FD&,&H64B8EF&,&HE199FD&,&H64B8EF&)}{\fad(60,85)\blur5}饭后甜点的Brilliant·Night 带着我一同去幽会吧
 Dialogue: 0,0:52:24.81,0:52:29.07,釘宮理恵+渡部恵子 - 日语,,0,0,0,,{\3vc(&HE199FD&,&H64B8EF&,&HE199FD&,&H64B8EF&)}{\fad(60,85)\blur5}世界中で一番の景色
 Dialogue: 0,0:52:24.81,0:52:29.07,釘宮理恵+渡部恵子,,0,0,0,,{\3vc(&HE199FD&,&H64B8EF&,&HE199FD&,&H64B8EF&)}{\fad(60,85)\blur5}全世界最美丽的景色
-Dialogue: 0,0:52:29.25,0:52:33.09,釘宮理恵+渡部恵子 - 日语,,0,0,0,,{\3vc(&HE199FD&,&H64B8EF&,&HE199FD&,&H64B8EF&)}{\fad(60,85)\blur5}見せてくれるでしょ Darling…♪
-Dialogue: 0,0:52:29.25,0:52:33.09,釘宮理恵+渡部恵子,,0,0,0,,{\3vc(&HE199FD&,&H64B8EF&,&HE199FD&,&H64B8EF&)}{\fad(60,85)\blur5}你会带我去看的吧 Darling…♪
+Dialogue: 0,0:52:29.25,0:52:33.09,釘宮理恵+渡部恵子 - 日语,,0,0,0,,{\3vc(&HE199FD&,&H64B8EF&,&HE199FD&,&H64B8EF&)}{\fad(60,85)\blur5}見せてくれるでしょ Darling…{\fn微软雅黑\fs53}♪{\fn\fs}
+Dialogue: 0,0:52:29.25,0:52:33.09,釘宮理恵+渡部恵子,,0,0,0,,{\3vc(&HE199FD&,&H64B8EF&,&HE199FD&,&H64B8EF&)}{\fad(60,85)\blur5}你会带我去看的吧 Darling…{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,0:52:42.47,0:52:44.37,渡部恵子 - MC,,0,0,0,,{\blur5}大家 和桃子
 Dialogue: 0,0:52:44.37,0:52:46.15,釘宮理恵 - MC,,0,0,0,,{\blur5}以及伊织一起
 Dialogue: 0,0:52:46.15,0:52:48.63,偶像大师 - MC,,0,0,0,,{\blur5}{\3vc(&HE199FD&,&H64B8EF&,&HE199FD&,&H64B8EF&)}燃起来吧!
@@ -1766,14 +1766,14 @@ Dialogue: 0,1:25:15.01,1:25:18.79,arcadia - 日语,,0,0,0,,{\3vc(&H90A6AF&,&HE3E
 Dialogue: 0,1:25:15.01,1:25:18.79,arcadia,,0,0,0,,{\3vc(&H90A6AF&,&HE3E3BE&,&HD24327&,&H692117&)}{\fad(60,200)\blur5}目标是 世外桃源
 Comment: 0,1:25:33.90,1:25:34.55,偶像大师,,0,0,0,,mc4
 Dialogue: 0,1:25:34.55,1:25:38.96,木戸衣吹 - MC,,0,0,0,,{\blur5}制作人——听得开心吗——
-Dialogue: 0,1:25:39.89,1:25:44.03,木戸衣吹 - MC,,0,0,0,,{\blur5}我是矢吹可奈哦——哎嘿嘿♪
-Dialogue: 0,1:25:44.43,1:25:47.93,木戸衣吹 - MC,,0,0,0,,{\blur5}汇聚了许多梦想的hotchpotch~♪
+Dialogue: 0,1:25:39.89,1:25:44.03,木戸衣吹 - MC,,0,0,0,,{\blur5}我是矢吹可奈哦——哎嘿嘿{\fn微软雅黑\fs53}♪{\fn\fs}
+Dialogue: 0,1:25:44.43,1:25:47.93,木戸衣吹 - MC,,0,0,0,,{\blur5}汇聚了许多梦想的hotchpotch~{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,1:25:48.01,1:25:51.31,木戸衣吹 - MC,,0,0,0,,{\blur5}时而舞蹈 时而歌唱
-Dialogue: 0,1:25:51.41,1:25:55.47,木戸衣吹 - MC,,0,0,0,,{\blur5}拿出最棒的心情继续上吧~♪
+Dialogue: 0,1:25:51.41,1:25:55.47,木戸衣吹 - MC,,0,0,0,,{\blur5}拿出最棒的心情继续上吧~{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,1:25:56.04,1:25:59.80,木戸衣吹 - MC,,0,0,0,,{\blur5}还有很多令人开心的歌会冒出来哦
 Dialogue: 0,1:26:00.09,1:26:02.67,木戸衣吹 - MC,,0,0,0,,{\blur5}请大家去尽情享受吧！
-Dialogue: 0,1:26:05.23,1:26:08.60,木戸衣吹 - MC,,0,0,0,,{\blur5}开心的~♪大祭典~♪
-Dialogue: 0,1:26:08.60,1:26:12.08,木戸衣吹 - MC,,0,0,0,,{\blur5}那边（acchi）这边（kocchi）hotchpotch~♪
+Dialogue: 0,1:26:05.23,1:26:08.60,木戸衣吹 - MC,,0,0,0,,{\blur5}开心的~{\fn微软雅黑\fs53}♪{\fn\fs}大祭典~{\fn微软雅黑\fs53}♪{\fn\fs}
+Dialogue: 0,1:26:08.60,1:26:12.08,木戸衣吹 - MC,,0,0,0,,{\blur5}那边（acchi）这边（kocchi）hotchpotch~{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,1:26:12.54,1:26:14.82,木戸衣吹 - MC,,0,0,0,,{\blur5}转盘~
 Dialogue: 0,1:26:14.93,1:26:16.79,木戸衣吹 - MC,,0,0,0,,{\blur5}转起来！
 Comment: 0,1:26:43.68,1:26:44.24,99 Nights,,0,0,0,,9.99 Nights

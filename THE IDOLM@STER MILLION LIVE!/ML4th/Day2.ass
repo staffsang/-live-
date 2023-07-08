@@ -11,14 +11,13 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE! DAY2 Bluemoon Theater.mp4
-Video File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE! DAY2 Bluemoon Theater.mp4
+Audio File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!! DAY2 BlueMoon Theater_t00.mkv
+Video File: X:/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!/THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!! DAY2 BlueMoon Theater_t00.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
+Video Zoom Percent: 0.250000
 Scroll Position: 3196
 Active Line: 3209
-Video Position: 306909
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2632,8 +2631,8 @@ Dialogue: 0,2:13:16.34,2:13:21.84,戸田めぐみ+藤井ゆきよ - 日语,,0,0,
 Dialogue: 0,2:13:16.34,2:13:21.84,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,85)\blur5}在同一个（时代中）出生了
 Dialogue: 0,2:13:22.02,2:13:26.55,戸田めぐみ+藤井ゆきよ - 日语,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,85)\blur5}手をとれば 怖いものなし
 Dialogue: 0,2:13:22.02,2:13:26.55,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,85)\blur5}只要牵起手来 就无所畏惧了
-Dialogue: 0,2:13:26.79,2:13:30.41,戸田めぐみ+藤井ゆきよ - 日语,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,150)\blur5}国境カーニバル♪
-Dialogue: 0,2:13:26.79,2:13:30.41,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,150)\blur5}国境嘉年华♪
+Dialogue: 0,2:13:26.79,2:13:30.41,戸田めぐみ+藤井ゆきよ - 日语,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,150)\blur5}国境カーニバル{\fn微软雅黑\fs53}♪{\fn\fs}
+Dialogue: 0,2:13:26.79,2:13:30.41,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,150)\blur5}国境嘉年华{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,2:13:39.00,2:13:44.87,藤井ゆきよ - 日语,,0,0,0,,{\fad(60,85)\blur5}諦めない人だけが 味わえる達成感
 Dialogue: 0,2:13:39.00,2:13:44.87,藤井ゆきよ,,0,0,0,,{\fad(60,85)\blur5}只有坚持不懈的人 才能品味这种成就感
 Dialogue: 0,2:13:44.96,2:13:51.39,戸田めぐみ - 日语,,0,0,0,,{\fad(60,85)\blur5}ナミダの 先に 友達がいた
@@ -2659,8 +2658,8 @@ Dialogue: 0,2:14:18.51,2:14:24.09,戸田めぐみ+藤井ゆきよ - 日语,,0,0,
 Dialogue: 0,2:14:18.51,2:14:24.09,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H414345&,&H9B5AE2&,&H414345&,&H9B5AE2&)}{\fad(60,85)\blur5}满溢的（想法）绝不是谎言！
 Dialogue: 0,2:14:24.25,2:14:28.89,戸田めぐみ+藤井ゆきよ - 日语,,0,0,0,,{\3vc(&H414345&,&H9B5AE2&,&H414345&,&H9B5AE2&)}{\fad(60,85)\blur5}愛を抱き 明日を歌えば
 Dialogue: 0,2:14:24.25,2:14:28.89,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H414345&,&H9B5AE2&,&H414345&,&H9B5AE2&)}{\fad(60,85)\blur5}拥抱着爱 歌唱着明日的话
-Dialogue: 0,2:14:29.02,2:14:32.39,戸田めぐみ+藤井ゆきよ - 日语,,0,0,0,,{\3vc(&H414345&,&H9B5AE2&,&H414345&,&H9B5AE2&)}{\fad(60,150)\blur5} 絶頂カーニバル♪
-Dialogue: 0,2:14:29.02,2:14:32.39,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H414345&,&H9B5AE2&,&H414345&,&H9B5AE2&)}{\fad(60,150)\blur5} 就是绝顶嘉年华♪
+Dialogue: 0,2:14:29.02,2:14:32.39,戸田めぐみ+藤井ゆきよ - 日语,,0,0,0,,{\3vc(&H414345&,&H9B5AE2&,&H414345&,&H9B5AE2&)}{\fad(60,150)\blur5} 絶頂カーニバル{\fn微软雅黑\fs53}♪{\fn\fs}
+Dialogue: 0,2:14:29.02,2:14:32.39,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H414345&,&H9B5AE2&,&H414345&,&H9B5AE2&)}{\fad(60,150)\blur5} 就是绝顶嘉年华{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,2:14:32.89,2:14:33.61,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H414345&,&H9B5AE2&,&H414345&,&H9B5AE2&)}{\fad(60,85)\blur5}Hey!
 Dialogue: 0,2:14:34.67,2:14:36.52,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H414345&,&H9B5AE2&,&H414345&,&H9B5AE2&)}{\fad(60,85)\blur5}Hey! Hey! Hey! Hey!
 Dialogue: 0,2:14:38.84,2:14:39.59,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H414345&,&H9B5AE2&,&H414345&,&H9B5AE2&)}{\fad(60,85)\blur5}Hey!
@@ -2695,8 +2694,8 @@ Dialogue: 0,2:15:31.10,2:15:36.71,戸田めぐみ+藤井ゆきよ - 日语,,0,0,
 Dialogue: 0,2:15:31.10,2:15:36.71,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,85)\blur5}在同一个（时代中）出生了
 Dialogue: 0,2:15:36.85,2:15:41.34,戸田めぐみ+藤井ゆきよ - 日语,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,85)\blur5}手をとれば 怖いものなし
 Dialogue: 0,2:15:36.85,2:15:41.34,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,85)\blur5}只要牵起手来 就无所畏惧了
-Dialogue: 0,2:15:41.61,2:15:44.47,戸田めぐみ+藤井ゆきよ - 日语,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,150)\blur5}国境カーニバル♪
-Dialogue: 0,2:15:41.61,2:15:44.47,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,150)\blur5}国境嘉年华♪
+Dialogue: 0,2:15:41.61,2:15:44.47,戸田めぐみ+藤井ゆきよ - 日语,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,150)\blur5}国境カーニバル{\fn微软雅黑\fs53}♪{\fn\fs}
+Dialogue: 0,2:15:41.61,2:15:44.47,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,150)\blur5}国境嘉年华{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,2:15:44.53,2:15:50.28,戸田めぐみ+藤井ゆきよ - 日语,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,85)\blur5}踊れよ 騒げよ
 Dialogue: 0,2:15:44.53,2:15:50.28,戸田めぐみ+藤井ゆきよ,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,85)\blur5}舞动吧 欢闹吧
 Dialogue: 0,2:15:55.91,2:16:02.11,戸田めぐみ+藤井ゆきよ - 日语,,0,0,0,,{\3vc(&H9B5AE2&,&H414345&,&H9B5AE2&,&H414345&)}{\fad(60,150)\blur5}音楽は 果てない
