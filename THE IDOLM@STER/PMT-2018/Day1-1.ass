@@ -15,13 +15,14 @@ Audio File: Z:/PMT2018/THE IDOLM@STER PRODUCER MEETING 2018 What is TOP!!!!!!!!!
 Video File: Z:/PMT2018/THE IDOLM@STER PRODUCER MEETING 2018 What is TOP!!!!!!!!!!!!!  DAY1 DISC1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 2789
-Active Line: 2791
-Video Position: 250503
+Video Zoom Percent: 0.625000
+Scroll Position: 1374
+Active Line: 1377
+Video Position: 111951
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: 滝田樹里 - MC,方正准圆_GBK,62,&H00FFFFFF,&H00916A59,&H006BBDF4,&HFF916A59,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
 Style: 偶像大师 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00916A59,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,15,15,35,1
 Style: 变态,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H000099FF,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
 Style: 诗花 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H009BBD92,&H00916A59,-1,0,0,0,100,100,0,0,1,3,0,2,15,15,35,1
@@ -1449,7 +1450,7 @@ Dialogue: 0,1:02:15.41,1:02:18.42,偶像大师 - MC,,0,0,0,,{\blur5}果然还不
 Dialogue: 0,1:02:18.42,1:02:20.93,偶像大师 - MC,,0,0,0,,{\blur5}就赶紧开溜 我这么认为的
 Dialogue: 0,1:02:20.94,1:02:22.44,若林直美 - MC,,0,0,0,,{\blur5}啊~ 要找好时机
 Dialogue: 0,1:02:21.95,1:02:24.22,偶像大师 - MC,,0,0,0,,{\blur5}但是开溜了的话感觉会很不妙
-Dialogue: 0,1:02:26.16,1:02:27.68,Default,,0,0,0,,{\blur5}是这样啊
+Dialogue: 0,1:02:26.16,1:02:27.68,沼倉愛美 - MC,,0,0,0,,{\blur5}是这样啊
 Dialogue: 0,1:02:28.07,1:02:31.04,偶像大师 - MC,,0,0,0,,{\blur5}呀 所以说 今天不是还有一个人吗
 Dialogue: 0,1:02:31.19,1:02:34.85,偶像大师 - MC,,0,0,0,,{\blur5}在我的背后 一直支持着我
 Dialogue: 0,1:02:36.67,1:02:39.87,若林直美 - MC,,0,0,0,,{\blur5}啊 一直啊 这样啊

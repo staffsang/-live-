@@ -15,10 +15,10 @@ Audio File: Z:/PMT2018/THE IDOLM@STER PRODUCER MEETING 2018 What is TOP!!!!!!!!!
 Video File: Z:/PMT2018/THE IDOLM@STER PRODUCER MEETING 2018 What is TOP!!!!!!!!!!!!!  DAY1 DISC2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 1765
-Active Line: 1776
-Video Position: 139376
+Video Zoom Percent: 0.500000
+Scroll Position: 794
+Active Line: 798
+Video Position: 60434
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -874,7 +874,7 @@ Dialogue: 0,0:33:22.50,0:33:24.48,若林直美 - MC,,0,0,0,,{\blur5}非常困难
 Dialogue: 0,0:33:24.48,0:33:29.37,中村繪里子 - MC,,0,0,0,,{\blur5}大家的制作还有我们作为偶像加油的力量
 Dialogue: 0,0:33:29.37,0:33:33.59,中村繪里子 - MC,,0,0,0,,{\blur5}会在之后为大家披露
 Dialogue: 0,0:33:33.60,0:33:36.16,中村繪里子 - MC,,0,0,0,,{\blur5}事不宜迟 让我们开始吧
-Dialogue: 0,0:33:36.47,0:33:37.21,Default,,0,0,0,,{\blur5}那么
+Dialogue: 0,0:33:36.47,0:33:37.21,中村繪里子 - MC,,0,0,0,,{\blur5}那么
 Dialogue: 0,0:33:37.64,0:33:39.66,中村繪里子 - MC,,0,0,0,,{\blur5}第一个组合的歌单
 Dialogue: 0,0:33:39.84,0:33:41.21,中村繪里子 - MC,,0,0,0,,{\blur5}请看这里
 Comment: 0,0:34:07.03,0:34:08.04,プロジェクト・イオリー,,0,0,0,,きゅんっ！ヴァンパイアガール
@@ -1651,7 +1651,7 @@ Dialogue: 0,1:07:22.04,1:07:27.02,仁後真耶子 - MC,,0,0,0,,{\blur5}不管发
 Dialogue: 0,1:07:27.02,1:07:28.98,仁後真耶子 - MC,,0,0,0,,{\blur5}享受着我们带来的快乐
 Dialogue: 0,1:07:29.15,1:07:36.46,仁後真耶子 - MC,,0,0,0,,{\blur5}哇 能参与到有这些制作人在的作品中
 Dialogue: 0,1:07:36.46,1:07:37.86,仁後真耶子 - MC,,0,0,0,,{\blur5}我真的很高兴
-Dialogue: 0,1:07:37.86,1:07:42.36,仁後真耶子 - MC,,0,0,0,,{\blur5}还想陪着大家一起和这个作品 
+Dialogue: 0,1:07:37.86,1:07:42.36,仁後真耶子 - MC,,0,0,0,,{\blur5}还想陪着大家一起和这个作品
 Dialogue: 0,1:07:42.47,1:07:45.18,仁後真耶子 - MC,,0,0,0,,{\blur5}怎么说呢 直到变成老奶奶？
 Dialogue: 0,1:07:45.18,1:07:45.90,仁後真耶子 - MC,,0,0,0,,{\blur5}智秋姐
 Dialogue: 0,1:07:45.90,1:07:47.98,たかはし智秋 - MC,,0,0,0,,{\blur5}60岁的才算老奶奶
@@ -1717,7 +1717,7 @@ Dialogue: 0,1:10:50.72,1:10:52.47,今井麻美 - MC,,0,0,0,,{\blur5}大家一定
 Dialogue: 0,1:10:52.58,1:10:55.66,今井麻美 - MC,,0,0,0,,{\blur5}对于制作人们来说这才是制作吧
 Dialogue: 0,1:10:55.66,1:10:57.22,今井麻美 - MC,,0,0,0,,{\blur5}今天非常感谢
 Dialogue: 0,1:11:03.44,1:11:05.64,中村繪里子 - MC,,0,0,0,,{\blur5}大家 觉得今天是最棒的一天吗
-Dialogue: 0,1:11:08.22,1:11:09.07,Default,,0,0,0,,{\blur5}真的吗
+Dialogue: 0,1:11:08.22,1:11:09.07,中村繪里子 - MC,,0,0,0,,{\blur5}真的吗
 Dialogue: 0,1:11:11.33,1:11:12.28,中村繪里子 - MC,,0,0,0,,{\blur5}发自内心吗
 Dialogue: 0,1:11:15.22,1:11:17.59,中村繪里子 - MC,,0,0,0,,{\blur5}我相信你们 感谢
 Dialogue: 0,1:11:20.71,1:11:22.64,中村繪里子 - MC,,0,0,0,,{\blur5}真的是很快乐的时光呢
@@ -1872,7 +1872,7 @@ Dialogue: 0,1:18:40.68,1:18:43.65,中村繪里子 - MC,,0,0,0,,{\blur5}今后也
 Dialogue: 0,1:18:44.09,1:18:48.78,偶像大师 - MC,,0,0,0,,{\blur5}IM@S！
 Dialogue: 0,1:18:50.66,1:18:53.01,中村繪里子 - MC,,0,0,0,,{\blur5}各位今日到场
 Dialogue: 0,1:18:53.61,1:18:57.07,偶像大师 - MC,,0,0,0,,{\blur5}非常感谢
-Dialogue: 0,1:19:08.42,1:19:11.92,Default,,0,0,0,,{\blur5}感谢 x N
+Dialogue: 0,1:19:08.42,1:19:11.92,偶像大师 - MC,,0,0,0,,{\blur5}感谢 x N
 Dialogue: 0,1:19:11.92,1:19:13.16,今井麻美 - MC,,0,0,0,,{\blur5}回家时要注意安全哦
 Dialogue: 0,1:19:28.48,1:19:29.31,中村繪里子 - MC,,0,0,0,,{\blur5}再会咯
 Dialogue: 0,1:19:40.26,1:19:41.58,小鸟,,0,0,0,,{\blur5}制作人
