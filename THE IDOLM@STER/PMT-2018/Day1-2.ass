@@ -15,10 +15,9 @@ Audio File: Z:/PMT2018/THE IDOLM@STER PRODUCER MEETING 2018 What is TOP!!!!!!!!!
 Video File: Z:/PMT2018/THE IDOLM@STER PRODUCER MEETING 2018 What is TOP!!!!!!!!!!!!!  DAY1 DISC2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 794
-Active Line: 798
-Video Position: 60434
+Video Zoom Percent: 0.375000
+Active Line: 1
+Video Position: 371
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -76,6 +75,8 @@ Style: あみまみあまみ - 日语,A-OTF Jun Pro 501,50,&H00FFFFFF,&H000000FF
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.08,0:00:12.24,中村繪里子 - MC,,0,0,0,,{\blur5}765Pro Fight！
+Dialogue: 0,0:00:12.36,0:00:13.64,偶像大师 - MC,,0,0,0,,{\blur5}哦！
 Comment: 0,0:00:32.68,0:00:32.94,偶像大师,,0,0,0,,ToP!!!!!!!!!!!!!
 Dialogue: 0,0:00:49.41,0:00:51.14,偶像大师,,0,0,0,,{\fad(100,200)\blur5}ToP!!!!!!!!!!!!!
 Dialogue: 0,0:00:51.20,0:00:54.40,偶像大师 - 日语,,0,0,0,,{\fad(100,200)\blur5}始まる物語（ストーリー）
