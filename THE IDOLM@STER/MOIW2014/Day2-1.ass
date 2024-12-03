@@ -14,8 +14,8 @@ Last Style Storage: Default
 Video File: ?dummy:23.976000:300000:1920:1080:154:158:163:c
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 3420
-Active Line: 2763
+Scroll Position: 1648
+Active Line: 1650
 Video Position: 188505
 
 [V4+ Styles]
@@ -1821,7 +1821,7 @@ Dialogue: 0,1:21:40.49,1:21:43.15,OS,,0,0,0,,{\3vc(&H17C2FA&,&H01F0FF&,&H1DACF7&
 Dialogue: 0,1:21:43.45,1:21:45.66,原紗友里 - 日语,,0,0,0,,{\fad(60,85)\blur5}明日は何をしよう
 Dialogue: 0,1:21:43.45,1:21:45.66,原紗友里,,0,0,0,,{\fad(60,85)\blur5}明天要做些什么呢
 Dialogue: 0,1:21:45.66,1:21:46.44,OS,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H17C2FA&,&H01F0FF&,&H1DACF7&,&H8C6BEB&)}{\an3}cha cha cha
-Dialogue: 0,1:21:46.44,1:21:48.65,佳村はるか - 日语,,0,0,0,,{\fad(60,85)\blur5}明日はどこへ行こう？
+Dialogue: 0,1:21:46.44,1:21:48.65,佳村はるか - 日语,,0,0,0,,{\fad(60,85)\blur5}明日はどこへ行こう
 Dialogue: 0,1:21:46.44,1:21:48.65,佳村はるか,,0,0,0,,{\fad(60,85)\blur5}明天要去哪里玩呢
 Dialogue: 0,1:21:48.65,1:21:49.40,OS,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&H17C2FA&,&H01F0FF&,&H1DACF7&,&H8C6BEB&)}{\an3}cha cha cha
 Dialogue: 0,1:21:49.40,1:21:54.67,OS - 日语,,0,0,0,,{\3vc(&H17C2FA&,&H01F0FF&,&H1DACF7&,&H8C6BEB&)}{\fad(60,85)\blur5}やりたいことがありすぎてホント 困っちゃう
