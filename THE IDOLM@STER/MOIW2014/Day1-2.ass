@@ -12,8 +12,8 @@ YCbCr Matrix: TV.601
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 0.375000
-Scroll Position: 1243
-Active Line: 1244
+Scroll Position: 1746
+Active Line: 1762
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1884,8 +1884,7 @@ Dialogue: 0,1:27:15.54,1:27:17.88,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blu
 Dialogue: 0,1:27:15.54,1:27:17.88,偶像大师,,0,0,0,,{\fad(60,85)\blur5}今天 稍微更加接近
 Dialogue: 0,1:27:17.88,1:27:20.67,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}小さなキセキの日曜日
 Dialogue: 0,1:27:17.88,1:27:20.67,偶像大师,,0,0,0,,{\fad(60,85)\blur5}发生小奇迹的星期天
-Dialogue: 0,1:27:20.93,1:27:21.56,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}Showing
-Dialogue: 0,1:27:20.93,1:27:21.56,偶像大师,,0,0,0,,{\fad(60,85)\blur5}展示
+Dialogue: 0,1:27:20.93,1:27:21.56,偶像大师,,0,0,0,,{\fad(60,85)\blur5}Showing
 Dialogue: 0,1:27:21.60,1:27:24.55,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}もっと「らしさ」をアピール
 Dialogue: 0,1:27:21.60,1:27:24.55,偶像大师,,0,0,0,,{\fad(60,85)\blur5}更加有自我风格的展现
 Dialogue: 0,1:27:24.55,1:27:26.07,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}アピール
