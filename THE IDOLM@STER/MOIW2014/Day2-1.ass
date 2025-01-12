@@ -14,8 +14,8 @@ Last Style Storage: Default
 Video File: ?dummy:23.976000:300000:1920:1080:154:158:163:c
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 1648
-Active Line: 1650
+Scroll Position: 1430
+Active Line: 1445
 Video Position: 188505
 
 [V4+ Styles]
@@ -1618,7 +1618,7 @@ Dialogue: 0,1:10:39.22,1:10:42.60,BS - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&
 Dialogue: 0,1:10:39.22,1:10:42.60,BS,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HCF9564&,&H52D5FE&,&HCF9564&,&H52D5FE&)}闪耀的歌声你可听见了吗？
 Dialogue: 0,1:10:42.89,1:10:49.59,BS - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HCF9564&,&H52D5FE&,&HCF9564&,&H52D5FE&)}耳に触れたのは アザヤカな風のエコー
 Dialogue: 0,1:10:42.89,1:10:49.59,BS,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HCF9564&,&H52D5FE&,&HCF9564&,&H52D5FE&)}轻抚着双耳的 是耀眼的风之和韵
-Dialogue: 0,1:10:49.73,1:10:57.01,BS - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HCF9564&,&H52D5FE&,&HCF9564&,&H52D5FE&)}あなたの空へと響かせてSpread our wings
+Dialogue: 0,1:10:49.73,1:10:57.01,BS - 日语,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HCF9564&,&H52D5FE&,&HCF9564&,&H52D5FE&)}あなたの空へと響かせて Spread our wings
 Dialogue: 0,1:10:49.73,1:10:57.01,BS,,0,0,0,,{\fad(60,85)\blur5}{\3vc(&HCF9564&,&H52D5FE&,&HCF9564&,&H52D5FE&)}朝着你所在的天空回荡 Spread our wings
 Dialogue: 0,1:11:12.89,1:11:16.22,Machico - 日语,,0,0,0,,{\fad(60,85)\blur5}breath for us 感じるたび
 Dialogue: 0,1:11:12.89,1:11:16.22,Machico,,0,0,0,,{\fad(60,85)\blur5}breath for us 每当感受
