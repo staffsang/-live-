@@ -15,10 +15,9 @@ Audio File: X:/ML1st/[UGH-NAMASSUKA] THE IDOLM@STER MILLION LIVE! 1stLIVE HAPPY�
 Video File: X:/ML1st/[UGH-NAMASSUKA] THE IDOLM@STER MILLION LIVE! 1stLIVE HAPPY☆PERFORM@NCE [BD 1080p x264 FLAC]/DAY 1/[UGH-NAMASSUKA] THE IDOLM@STER MILLION LIVE! 1stLIVE HAPPY☆PERFORM@NCE Blu-Ray DAY1 DISC 1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1642
-Active Line: 1647
-Video Position: 124654
+Video Zoom Percent: 0.375000
+Scroll Position: 306
+Active Line: 244
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,17 +55,6 @@ Style: 伊藤美来+木戸衣吹,方正准圆_GBK,55,&H00FFFFFF,&H000000FF,&H003
 Style: 伊藤美来+木戸衣吹 - 日语,A-OTF Jun Pro 501,50,&H00FFFFFF,&H000000FF,&H003CB2DE,&H00000000,-1,0,0,0,100,100,1,0,1,2.5,0,2,15,15,86,1
 Style: Machico+麻倉+愛美,方正准圆_GBK,55,&H00FFFFFF,&H000000FF,&H003CB2DE,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,25,1
 Style: Machico+麻倉+愛美 - 日语,A-OTF Jun Pro 501,50,&H00FFFFFF,&H000000FF,&H00898BEC,&H00000000,-1,0,0,0,100,100,1,0,1,2.5,0,2,15,15,86,1
-Style: 偶像大师 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00916A59,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
-Style: 山崎はるか - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00765BEA,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
-Style: 夏川椎菜 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00A86C7E,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
-Style: 愛美 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H005F38D7,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
-Style: 伊藤美来 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H003CB8C7,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
-Style: Machico - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H0052D5FE,&H00916A59,-1,0,0,0,100,100,1,0,1,3,2,2,15,15,35,1
-Style: 諏訪彩花 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00B7BF5A,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
-Style: 木戸衣吹 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H003BADF5,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
-Style: 渡部優衣 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00C58B78,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
-Style: 大関英里 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00DCA658,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
-Style: 麻倉もも - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00BA90ED,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
 Style: 山崎+諏訪 - 日语,A-OTF Jun Pro 501,50,&H00FFFFFF,&H000000FF,&H00968DA2,&H00000000,-1,0,0,0,100,100,1,0,1,2.5,0,2,15,15,86,1
 Style: 山崎+諏訪,方正准圆_GBK,55,&H00FFFFFF,&H000000FF,&H00968DA2,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,25,1
 Style: 夏川椎菜+伊藤美来,方正准圆_GBK,55,&H00FFFFFF,&H000000FF,&H007292A2,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,25,1
@@ -79,16 +67,28 @@ Style: Machico+大関+木戸,方正准圆_GBK,55,&H00FFFFFF,&H000000FF,&H0069B6D
 Style: Machico+大関+木戸 - 日语,A-OTF Jun Pro 501,50,&H00FFFFFF,&H000000FF,&H0069B6D0,&H00916A59,-1,0,0,0,100,100,0,0,1,2.5,0,2,15,15,86,1
 Style: 大関英里+木戸衣吹,方正准圆_GBK,55,&H00FFFFFF,&H000000FF,&H008CAAA6,&H00916A59,-1,0,0,0,100,100,0,0,1,3,0,2,15,15,25,1
 Style: 大関英里+木戸衣吹 - 日语,A-OTF Jun Pro 501,50,&H00FFFFFF,&H000000FF,&H008CAAA6,&H00916A59,-1,0,0,0,100,100,0,0,1,2.5,0,2,15,15,86,1
+Style: 偶像大师 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00916A59,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
+Style: 山崎はるか - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00765BEA,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
+Style: 夏川椎菜 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00A86C7E,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
+Style: 愛美 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H005F38D7,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
+Style: 伊藤美来 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H003CB8C7,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
+Style: Machico - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H0052D5FE,&H00916A59,-1,0,0,0,100,100,1,0,1,3,2,2,15,15,35,1
+Style: 諏訪彩花 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00B7BF5A,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
+Style: 木戸衣吹 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H003BADF5,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
+Style: 渡部優衣 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00C58B78,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
+Style: 大関英里 - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00DCA658,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
+Style: 麻倉もも - MC,方正准圆_GBK,62,&H00FFFFFF,&H000000FF,&H00BA90ED,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,15,15,35,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:25.00,偶像大师,,0,0,0,,{\an1}原翻译制作：百万世界线蘑菇字幕组\N\N——歌词重制——\N歌词翻译：YOU宅\N时轴：staff
 Comment: 0,0:01:13.03,0:01:13.03,偶像大师,,0,0,0,,1.Thank You!
 Dialogue: 0,0:01:17.55,0:01:18.64,偶像大师,,0,0,0,,{\fad(60,85)\blur5}Thank you for...
 Dialogue: 0,0:01:18.64,0:01:23.33,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}つくろう 数えきれないステージ
 Dialogue: 0,0:01:18.64,0:01:23.33,偶像大师,,0,0,0,,{\fad(60,85)\blur5}创造出数之不尽的舞台
 Dialogue: 0,0:01:23.37,0:01:27.27,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}この場所から
 Dialogue: 0,0:01:23.37,0:01:27.27,偶像大师,,0,0,0,,{\fad(60,85)\blur5}自这个地方
-Dialogue: 0,0:01:27.48,0:01:29.48,山崎はるか - MC,,0,0,0,,{\blur5}
+Dialogue: 0,0:01:27.48,0:01:29.48,山崎はるか - MC,,0,0,0,,{\blur5}各位 开始咯
 Dialogue: 0,0:01:37.88,0:01:38.61,偶像大师,,0,0,0,,{\fad(60,85)\blur5}Morning
 Dialogue: 0,0:01:38.66,0:01:41.63,偶像大师 - 日语,,0,0,0,,{\fad(60,85)\blur5}ぱっと 飛び起きて「おはよう」
 Dialogue: 0,0:01:38.66,0:01:41.63,偶像大师,,0,0,0,,{\fad(60,85)\blur5}啪地弹起说着「早安」
