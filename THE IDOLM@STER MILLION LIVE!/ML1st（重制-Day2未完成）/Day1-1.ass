@@ -16,8 +16,8 @@ Video File: X:/ML1st/[UGH-NAMASSUKA] THE IDOLM@STER MILLION LIVE! 1stLIVE HAPPY�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 306
-Active Line: 244
+Scroll Position: 1753
+Active Line: 1786
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1865,9 +1865,9 @@ Dialogue: 0,1:13:51.36,1:13:53.84,山崎+諏訪 - 日语,,0,0,0,,{\3vc(&H765BEA&
 Dialogue: 0,1:13:51.36,1:13:53.84,山崎+諏訪,,0,0,0,,{\3vc(&H765BEA&,&HB7BF5A&,&H765BEA&,&HB7BF5A&)}{\fad(60,85)\blur5}把所有的光彩
 Dialogue: 0,1:13:53.88,1:13:59.90,山崎+諏訪 - 日语,,0,0,0,,{\3vc(&H765BEA&,&HB7BF5A&,&H765BEA&,&HB7BF5A&)}{\fad(60,150)\blur5}この指にとまれ
 Dialogue: 0,1:13:53.88,1:13:59.90,山崎+諏訪,,0,0,0,,{\3vc(&H765BEA&,&HB7BF5A&,&H765BEA&,&HB7BF5A&)}{\fad(60,150)\blur5}都汇聚在我们的手中
-Dialogue: 0,1:14:01.35,1:14:04.73,諏訪彩花 - MC,,0,0,0,,{\blur5}
-Dialogue: 0,1:14:05.49,1:14:08.94,山崎はるか - MC,,0,0,0,,{\blur5}
-Dialogue: 0,1:14:16.83,1:14:18.01,偶像大师 - MC,,0,0,0,,{\blur5}
+Dialogue: 0,1:14:01.35,1:14:04.73,諏訪彩花 - MC,,0,0,0,,{\blur5}大家要一起来唱Lalala哦
+Dialogue: 0,1:14:05.49,1:14:08.94,山崎はるか - MC,,0,0,0,,{\blur5}剧场转播里的也要一起哦
+Dialogue: 0,1:14:16.83,1:14:18.01,偶像大师 - MC,,0,0,0,,{\blur5}{\3vc(&H765BEA&,&HB7BF5A&,&H765BEA&,&HB7BF5A&)}预备
 Comment: 0,1:14:52.67,1:14:52.67,偶像大师,,0,0,0,,14.キラメキラリ
 Dialogue: 0,1:14:53.28,1:14:55.97,偶像大师 - MC,,0,0,0,,{\blur5}{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}キラメキラリ 要上了哦！
 Dialogue: 0,1:14:56.61,1:14:58.03,夏川椎菜+伊藤美来 - 日语,,0,0,0,,{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}{\fad(60,85)\blur5}フレーフレー頑張れ！！
