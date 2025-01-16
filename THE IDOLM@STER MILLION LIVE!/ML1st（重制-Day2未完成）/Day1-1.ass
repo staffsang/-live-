@@ -15,9 +15,10 @@ Audio File: X:/ML1st/[UGH-NAMASSUKA] THE IDOLM@STER MILLION LIVE! 1stLIVE HAPPY�
 Video File: X:/ML1st/[UGH-NAMASSUKA] THE IDOLM@STER MILLION LIVE! 1stLIVE HAPPY☆PERFORM@NCE [BD 1080p x264 FLAC]/DAY 1/[UGH-NAMASSUKA] THE IDOLM@STER MILLION LIVE! 1stLIVE HAPPY☆PERFORM@NCE Blu-Ray DAY1 DISC 1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 1753
-Active Line: 1786
+Video Zoom Percent: 0.500000
+Scroll Position: 2149
+Active Line: 2154
+Video Position: 159855
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2014,7 +2015,9 @@ Dialogue: 0,1:18:51.25,1:18:53.88,夏川椎菜+伊藤美来,,0,0,0,,{\3vc(&H3CB8
 Dialogue: 0,1:18:53.91,1:18:56.80,夏川椎菜+伊藤美来 - 日语,,0,0,0,,{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}{\fad(60,200)\blur5}フレーフレー頑張れ！！最高{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,1:18:53.91,1:18:56.80,夏川椎菜+伊藤美来,,0,0,0,,{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}{\fad(60,200)\blur5}Hurray Hurray加把劲！！你最棒{\fn微软雅黑\fs53}♪{\fn\fs}
 Comment: 0,1:19:06.62,1:19:06.62,偶像大师,,0,0,0,,15.きゅんっ！ヴァンパイアガール
-Dialogue: 0,1:19:17.48,1:19:22.21,偶像大师,,0,0,0,,
+Dialogue: 0,1:19:17.43,1:19:18.79,偶像大师 - MC,,0,0,0,,{\blur5}制作人 
+Dialogue: 0,1:19:18.79,1:19:22.21,偶像大师 - 日语,,0,0,0,,{\blur5}パッと舞って がッとやって チユッと吸って
+Dialogue: 0,1:19:18.79,1:19:22.21,偶像大师,,0,0,0,,{\blur5}砰然舞圈 咯地搂起 微微一吮
 Dialogue: 0,1:19:24.09,1:19:28.79,麻倉もも - 日语,,0,0,0,,{\fad(60,150)\blur5}どこかへおでかけ おじょうさま
 Dialogue: 0,1:19:24.09,1:19:28.79,麻倉もも,,0,0,0,,{\fad(60,150)\blur5}我的大小姐 你这是打算到哪儿去
 Dialogue: 0,1:19:30.09,1:19:35.03,麻倉もも - 日语,,0,0,0,,{\fad(60,150)\blur5}喉がからから 限界ぎりぎり 発狂寸前
@@ -2233,7 +2236,7 @@ Dialogue: 0,1:28:46.47,1:28:49.25,大関英里+木戸衣吹 - 日语,,0,0,0,,{\3
 Dialogue: 0,1:28:46.47,1:28:49.25,大関英里+木戸衣吹,,0,0,0,,{\3vc(&H3BADF5&,&HDCA658&,&H3BADF5&,&HDCA658&)}{\fad(60,85)\blur5}重要的机会
 Dialogue: 0,1:28:49.29,1:28:53.21,大関英里+木戸衣吹 - 日语,,0,0,0,,{\3vc(&H3BADF5&,&HDCA658&,&H3BADF5&,&HDCA658&)}{\fad(60,85)\blur5}逃してしまいそう
 Dialogue: 0,1:28:49.29,1:28:53.21,大関英里+木戸衣吹,,0,0,0,,{\3vc(&H3BADF5&,&HDCA658&,&H3BADF5&,&HDCA658&)}{\fad(60,85)\blur5}便会与我失之交臂
-Dialogue: 0,1:28:53.82,1:28:59.25,Machico+大関+木戸 - 日语,,0,0,0,,{\3vc(&H3BADF5&,&H52D5FE&,&H52D5FE&,&HDCA658&)}{\fad(60,85)\blur5}{\3vc(&H3BADF5&,&H52D5FE&,&H52D5FE&,&HDCA658&)}輝いたステージに立てば
+Dialogue: 0,1:28:53.82,1:28:59.25,Machico+大関+木戸 - 日语,,0,0,0,,{\3vc(&H3BADF5&,&H52D5FE&,&H52D5FE&,&HDCA658&)}{\fad(60,85)\blur5}輝いたステージに立てば
 Dialogue: 0,1:28:53.82,1:28:59.25,Machico+大関+木戸,,0,0,0,,{\3vc(&H3BADF5&,&H52D5FE&,&H52D5FE&,&HDCA658&)}{\fad(60,85)\blur5}只要站在耀眼的舞台上
 Dialogue: 0,1:28:59.37,1:29:04.70,Machico+大関+木戸 - 日语,,0,0,0,,{\3vc(&H3BADF5&,&H52D5FE&,&H52D5FE&,&HDCA658&)}{\fad(60,85)\blur5}最高の気分を味わえる
 Dialogue: 0,1:28:59.37,1:29:04.70,Machico+大関+木戸,,0,0,0,,{\3vc(&H3BADF5&,&H52D5FE&,&H52D5FE&,&HDCA658&)}{\fad(60,85)\blur5}就能体味到最棒的感觉
@@ -2301,11 +2304,12 @@ Dialogue: 0,1:31:42.99,1:31:47.95,大関英里+木戸衣吹 - 日语,,0,0,0,,{\3
 Dialogue: 0,1:31:42.99,1:31:47.95,大関英里+木戸衣吹,,0,0,0,,{\3vc(&H3BADF5&,&HDCA658&,&H3BADF5&,&HDCA658&)}{\fad(60,200)\blur5}一两次失败也没关系
 Dialogue: 0,1:31:48.22,1:31:55.72,大関英里+木戸衣吹 - 日语,,0,0,0,,{\3vc(&H3BADF5&,&HDCA658&,&H3BADF5&,&HDCA658&)}{\fad(60,200)\blur5}軽く流してリスタート
 Dialogue: 0,1:31:48.22,1:31:55.72,大関英里+木戸衣吹,,0,0,0,,{\3vc(&H3BADF5&,&HDCA658&,&H3BADF5&,&HDCA658&)}{\fad(60,200)\blur5}就随风而去 从头开始
-Dialogue: 0,1:31:55.07,1:31:59.87,Machico - MC,,0,0,0,,{\blur5}{\an2}
-Dialogue: 0,1:32:01.25,1:32:04.30,Machico - MC,,0,0,0,,
-Dialogue: 0,1:32:04.38,1:32:08.46,Machico - MC,,0,0,0,,
-Dialogue: 0,1:32:08.98,1:32:10.99,Machico - MC,,0,0,0,,{\blur5}
-Dialogue: 0,1:32:11.42,1:32:13.65,偶像大师 - MC,,0,0,0,,
+Dialogue: 0,1:31:54.83,1:31:55.73,Machico - MC,,0,0,0,,{\blur5}{\an3}各位
+Dialogue: 0,1:31:55.73,1:31:59.87,Machico - MC,,0,0,0,,{\blur5}765PRO翻唱环节 听的开心吗
+Dialogue: 0,1:32:01.25,1:32:04.30,Machico - MC,,0,0,0,,{\blur5}我们也不会输给出色的前辈们
+Dialogue: 0,1:32:04.38,1:32:08.46,Machico - MC,,0,0,0,,{\blur5}尽管还很慢 但也会一步一步地向前走
+Dialogue: 0,1:32:08.98,1:32:10.99,Machico - MC,,0,0,0,,{\blur5}今后的培育
+Dialogue: 0,1:32:11.42,1:32:13.65,偶像大师 - MC,,0,0,0,,{\blur5}还请多多指教
 Dialogue: 0,1:32:15.95,1:32:21.41,Machico+大関+木戸 - 日语,,0,0,0,,{\3vc(&H3BADF5&,&H52D5FE&,&H52D5FE&,&HDCA658&)}{\fad(60,85)\blur5}誰からも知られ愛される
 Dialogue: 0,1:32:15.95,1:32:21.41,Machico+大関+木戸,,0,0,0,,{\3vc(&H3BADF5&,&H52D5FE&,&H52D5FE&,&HDCA658&)}{\fad(60,85)\blur5}选择了能够成为被人知晓
 Dialogue: 0,1:32:21.56,1:32:27.02,Machico+大関+木戸 - 日语,,0,0,0,,{\3vc(&H3BADF5&,&H52D5FE&,&H52D5FE&,&HDCA658&)}{\fad(60,85)\blur5}存在になる道を選んで
