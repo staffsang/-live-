@@ -16,9 +16,9 @@ Video File: X:/ML1st/[UGH-NAMASSUKA] THE IDOLM@STER MILLION LIVE! 1stLIVE HAPPY�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2149
-Active Line: 2154
-Video Position: 159855
+Scroll Position: 1883
+Active Line: 1888
+Video Position: 139971
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1970,6 +1970,7 @@ Dialogue: 0,1:17:33.59,1:17:36.13,夏川椎菜+伊藤美来,,0,0,0,,{\3vc(&H3CB8
 Dialogue: 0,1:17:36.32,1:17:38.92,夏川椎菜+伊藤美来 - 日语,,0,0,0,,{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}{\fad(60,85)\blur5}最後に笑うのはワ・タ・シ
 Dialogue: 0,1:17:36.32,1:17:38.92,夏川椎菜+伊藤美来,,0,0,0,,{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}{\fad(60,85)\blur5}笑到最后的肯定还・是・我
 Dialogue: 0,1:17:39.23,1:17:41.72,夏川椎菜+伊藤美来,,0,0,0,,{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}{\fad(60,85)\blur5}Guitar solo come on!!
+Dialogue: 0,1:17:50.36,1:17:51.72,夏川椎菜 - MC,,0,0,0,,{\blur5}继续哦
 Dialogue: 0,1:18:02.96,1:18:05.64,夏川椎菜+伊藤美来 - 日语,,0,0,0,,{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}{\fad(60,85)\blur5}キラメキラリ 一度リセット
 Dialogue: 0,1:18:02.96,1:18:05.64,夏川椎菜+伊藤美来,,0,0,0,,{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}{\fad(60,85)\blur5}闪亮闪亮的 重新来一次
 Dialogue: 0,1:18:05.92,1:18:08.27,夏川椎菜+伊藤美来 - 日语,,0,0,0,,{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}{\fad(60,85)\blur5}そしたら私のターン
@@ -2015,7 +2016,7 @@ Dialogue: 0,1:18:51.25,1:18:53.88,夏川椎菜+伊藤美来,,0,0,0,,{\3vc(&H3CB8
 Dialogue: 0,1:18:53.91,1:18:56.80,夏川椎菜+伊藤美来 - 日语,,0,0,0,,{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}{\fad(60,200)\blur5}フレーフレー頑張れ！！最高{\fn微软雅黑\fs53}♪{\fn\fs}
 Dialogue: 0,1:18:53.91,1:18:56.80,夏川椎菜+伊藤美来,,0,0,0,,{\3vc(&H3CB8C7&,&HA86C7E&,&H3CB8C7&,&HA86C7E&)}{\fad(60,200)\blur5}Hurray Hurray加把劲！！你最棒{\fn微软雅黑\fs53}♪{\fn\fs}
 Comment: 0,1:19:06.62,1:19:06.62,偶像大师,,0,0,0,,15.きゅんっ！ヴァンパイアガール
-Dialogue: 0,1:19:17.43,1:19:18.79,偶像大师 - MC,,0,0,0,,{\blur5}制作人 
+Dialogue: 0,1:19:17.43,1:19:18.79,偶像大师 - MC,,0,0,0,,{\blur5}制作人
 Dialogue: 0,1:19:18.79,1:19:22.21,偶像大师 - 日语,,0,0,0,,{\blur5}パッと舞って がッとやって チユッと吸って
 Dialogue: 0,1:19:18.79,1:19:22.21,偶像大师,,0,0,0,,{\blur5}砰然舞圈 咯地搂起 微微一吮
 Dialogue: 0,1:19:24.09,1:19:28.79,麻倉もも - 日语,,0,0,0,,{\fad(60,150)\blur5}どこかへおでかけ おじょうさま
