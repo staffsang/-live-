@@ -16,6 +16,7 @@
 - **a245** [B站](https://space.bilibili.com/4311183/)  
 - **阡陌_单推p** [B站](https://space.bilibili.com/19555904/)  
 - **蜜柑ぴ** [B站](https://space.bilibili.com/14971167/)  
+- **luckyluke** [B站](https://space.bilibili.com/139158/)  
 
 # 注意事项
 1. 在此发布的字幕文件仅作外挂于BD观看，个人负责部分的字幕经由该场次制作成员商讨同意允许自行压制上传，列表如下：  
